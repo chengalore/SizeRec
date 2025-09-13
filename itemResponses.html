@@ -1335,36 +1335,50 @@
   </table>
 
   <script>
-  function downloadCSV(csv, filename) {
-    const csvFile = new Blob([csv], { type: "text/csv;charset=utf-8;" });
-    const downloadLink = document.createElement("a");
-    downloadLink.download = filename;
-    downloadLink.href = URL.createObjectURL(csvFile);
-    downloadLink.style.display = "none";
-    document.body.appendChild(downloadLink);
-    downloadLink.click();
-  }
+    function downloadCSV(csv, filename) {
+      const csvFile = new Blob([csv], { type: "text/csv;charset=utf-8;" });
+      const downloadLink = document.createElement("a");
+      downloadLink.download = filename;
+      downloadLink.href = URL.createObjectURL(csvFile);
+      downloadLink.style.display = "none";
+      document.body.appendChild(downloadLink);
+      downloadLink.click();
+      document.body.removeChild(downloadLink);
+    }
 
-  function exportTableToCSV() {
-    const rows = document.querySelectorAll("#responsesTable tr");
-    let csv = [];
+    function exportTableToCSV() {
+      const rows = document.querySelectorAll("#responsesTable tr");
+      let csv = [];
 
-    rows.forEach(row => {
-      const cols = row.querySelectorAll("td, th");
-      const rowData = [];
-      cols.forEach(col => {
-        // Escape quotes and wrap in double quotes
-        let text = col.innerText.replace(/"/g, '""'); 
-        rowData.push('"' + text.replace(/"/g, '""') + '"');
+      rows.forEach(row => {
+        const cols = row.querySelectorAll("td, th");
+        const rowData = [];
 
+        cols.forEach(col => {
+          let text = "";
+
+          // If cell contains a link, export the href instead of "Link"
+          const link = col.querySelector("a");
+          if (link) {
+            text = link.href;
+          } else {
+            text = col.innerText;
+          }
+
+          // Escape quotes and newlines for CSV safety
+          text = text.replace(/"/g, '""').replace(/\r?\n|\r/g, " ");
+
+          // Always wrap in double quotes
+          rowData.push('"' + text + '"');
+        });
+
+        csv.push(rowData.join(","));
       });
-      csv.push(rowData.join(","));
-    });
 
-    downloadCSV(csv.join("
-"), "itemResponses.csv");
-  }
-</script>
-
+      // Add today's date to filename
+      const today = new Date().toISOString().split("T")[0];
+      downloadCSV(csv.join("\n"), "itemResponses-" + today + ".csv");
+    }
+  </script>
 </body>
 </html>
