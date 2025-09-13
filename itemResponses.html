@@ -6,16 +6,20 @@
   <title>Item Responses</title>
   <style>
     body { font-family: sans-serif; margin: 20px; }
-    table { border-collapse: collapse; width: 100%; }
+    table { border-collapse: collapse; width: 100%; margin-top: 10px; }
     th, td { border: 1px solid #ccc; padding: 6px 10px; font-size: 14px; }
     th { background: #f4f4f4; }
+    td { vertical-align: top; }
+    button { margin-bottom: 15px; padding: 8px 12px; font-size: 14px; cursor: pointer; }
   </style>
 </head>
 <body>
   <h1>Virtusize Item Responses</h1>
-  <table>
+  <button onclick="exportTableToCSV()">⬇️ Export to CSV</button>
+  <table id="responsesTable">
     <thead>
       <tr>
+        <th>Timestamp</th>
         <th>extProductId</th>
         <th>Brand</th>
         <th>Fit</th>
@@ -36,6 +40,7 @@
     <tbody>
 
     <tr>
+      <td></td>
       <td>makes_GX-S24-TP-01</td>
       <td>god selection xxx</td>
       <td>tight</td>
@@ -48,12 +53,13 @@
       <td>M</td>
       <td>L</td>
       <td>general_medians</td>
-      <td>✅</td>
+      <td>true</td>
       <td><a href="https://www.makes.jp/c/mens/GX-S24-TP-01" target="_blank">Link</a></td>
       <td>www.makes.jp</td>
     </tr>
   
     <tr>
+      <td></td>
       <td>makes_CUMU0369A1W8390</td>
       <td>marni</td>
       <td>tight</td>
@@ -66,12 +72,74 @@
       <td>46</td>
       <td>48</td>
       <td>general_medians</td>
-      <td>✅</td>
+      <td>true</td>
+      <td><a href="https://www.makes.jp/c/mens/CUMU0369A1W8390" target="_blank">Link</a></td>
+      <td>www.makes.jp</td>
+    </tr>
+  
+    <tr>
+      <td>2025-09-13T19:04:02.643Z</td>
+      <td>makes_GX-S24-TP-01</td>
+      <td>god selection xxx</td>
+      <td>tight</td>
+      <td>M, L</td>
+      <td>top</td>
+      <td>female</td>
+      <td>1610</td>
+      <td>55</td>
+      <td>35</td>
+      <td>M</td>
+      <td>L</td>
+      <td>general_medians</td>
+      <td>true</td>
+      <td><a href="https://www.makes.jp/c/mens/GX-S24-TP-01" target="_blank">Link</a></td>
+      <td>www.makes.jp</td>
+    </tr>
+  
+    <tr>
+      <td>2025-09-13T19:04:17.503Z</td>
+      <td>makes_CUMU0369A1W8390</td>
+      <td>marni</td>
+      <td>tight</td>
+      <td>46, 48</td>
+      <td>jacket</td>
+      <td>female</td>
+      <td>1610</td>
+      <td>55</td>
+      <td>35</td>
+      <td>46</td>
+      <td>48</td>
+      <td>general_medians</td>
+      <td>true</td>
       <td><a href="https://www.makes.jp/c/mens/CUMU0369A1W8390" target="_blank">Link</a></td>
       <td>www.makes.jp</td>
     </tr>
   
     </tbody>
   </table>
+
+  <script>
+    function downloadCSV(csv, filename) {
+      const csvFile = new Blob([csv], { type: "text/csv" });
+      const downloadLink = document.createElement("a");
+      downloadLink.download = filename;
+      downloadLink.href = window.URL.createObjectURL(csvFile);
+      downloadLink.style.display = "none";
+      document.body.appendChild(downloadLink);
+      downloadLink.click();
+    }
+
+    function exportTableToCSV() {
+      const rows = document.querySelectorAll("#responsesTable tr");
+      let csv = [];
+      rows.forEach(row => {
+        const cols = row.querySelectorAll("td, th");
+        const rowData = [];
+        cols.forEach(col => rowData.push(col.innerText.replace(/\n/g, " ")));
+        csv.push(rowData.join(","));
+      });
+      downloadCSV(csv.join("\n"), "itemResponses.csv");
+    }
+  </script>
 </body>
 </html>
