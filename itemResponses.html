@@ -1335,27 +1335,36 @@
   </table>
 
   <script>
-    function downloadCSV(csv, filename) {
-      const csvFile = new Blob([csv], { type: "text/csv" });
-      const downloadLink = document.createElement("a");
-      downloadLink.download = filename;
-      downloadLink.href = window.URL.createObjectURL(csvFile);
-      downloadLink.style.display = "none";
-      document.body.appendChild(downloadLink);
-      downloadLink.click();
-    }
+  function downloadCSV(csv, filename) {
+    const csvFile = new Blob([csv], { type: "text/csv;charset=utf-8;" });
+    const downloadLink = document.createElement("a");
+    downloadLink.download = filename;
+    downloadLink.href = URL.createObjectURL(csvFile);
+    downloadLink.style.display = "none";
+    document.body.appendChild(downloadLink);
+    downloadLink.click();
+  }
 
-    function exportTableToCSV() {
-      const rows = document.querySelectorAll("#responsesTable tr");
-      let csv = [];
-      rows.forEach(row => {
-        const cols = row.querySelectorAll("td, th");
-        const rowData = [];
-        cols.forEach(col => rowData.push(col.innerText.replace(/\n/g, " ")));
-        csv.push(rowData.join(","));
+  function exportTableToCSV() {
+    const rows = document.querySelectorAll("#responsesTable tr");
+    let csv = [];
+
+    rows.forEach(row => {
+      const cols = row.querySelectorAll("td, th");
+      const rowData = [];
+      cols.forEach(col => {
+        // Escape quotes and wrap in double quotes
+        let text = col.innerText.replace(/"/g, '""'); 
+        rowData.push('"' + text.replace(/"/g, '""') + '"');
+
       });
-      downloadCSV(csv.join("\n"), "itemResponses.csv");
-    }
-  </script>
+      csv.push(rowData.join(","));
+    });
+
+    downloadCSV(csv.join("
+"), "itemResponses.csv");
+  }
+</script>
+
 </body>
 </html>
