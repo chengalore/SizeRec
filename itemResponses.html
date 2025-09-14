@@ -10,12 +10,16 @@
     th, td { border: 1px solid #ccc; padding: 6px 10px; font-size: 14px; }
     th { background: #f4f4f4; }
     td { vertical-align: top; }
-    button { margin-bottom: 15px; padding: 8px 12px; font-size: 14px; cursor: pointer; }
+    button, input { margin: 5px 5px 15px 0; padding: 8px 12px; font-size: 14px; }
+    input { border: 1px solid #ccc; }
   </style>
 </head>
 <body>
   <h1>Virtusize Item Responses</h1>
+  
+  <input type="text" id="brandFilter" placeholder="🔍 Filter by brand..." onkeyup="filterByBrand()">
   <button onclick="exportTableToCSV()">⬇️ Export to CSV</button>
+  
   <table id="responsesTable">
     <thead>
       <tr>
@@ -1962,6 +1966,16 @@
   </table>
 
   <script>
+    function filterByBrand() {
+      const input = document.getElementById("brandFilter").value.toLowerCase();
+      const rows = document.querySelectorAll("#responsesTable tbody tr");
+
+      rows.forEach(row => {
+        const brand = row.cells[2].innerText.toLowerCase(); // 3rd column = Brand
+        row.style.display = brand.includes(input) ? "" : "none";
+      });
+    }
+
     function downloadCSV(csv, filename) {
       const csvFile = new Blob([csv], { type: "text/csv;charset=utf-8;" });
       const downloadLink = document.createElement("a");
@@ -1978,31 +1992,26 @@
       let csv = [];
 
       rows.forEach(row => {
+        if (row.style.display === "none") return; // Skip hidden rows (filtered out)
+        
         const cols = row.querySelectorAll("td, th");
         const rowData = [];
 
         cols.forEach(col => {
           let text = "";
-
-          // If cell contains a link, export the href instead of "Link"
           const link = col.querySelector("a");
           if (link) {
             text = link.href;
           } else {
             text = col.innerText;
           }
-
-          // Escape quotes and newlines for CSV safety
           text = text.replace(/"/g, '""').replace(/\r?\n|\r/g, " ");
-
-          // Always wrap in double quotes
           rowData.push('"' + text + '"');
         });
 
         csv.push(rowData.join(","));
       });
 
-      // Add today's date to filename
       const today = new Date().toISOString().split("T")[0];
       downloadCSV(csv.join("\n"), "itemResponses-" + today + ".csv");
     }
