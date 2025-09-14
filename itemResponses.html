@@ -13,25 +13,23 @@
     }
     table { border-collapse: collapse; width: 100%; }
     th, td { border: 1px solid #ccc; padding: 6px 10px; font-size: 14px; }
-    th { background: #f4f4f4; position: sticky; top: 0; z-index: 2; }
+    th { 
+      background: #f4f4f4; 
+      position: sticky; 
+      top: 0; 
+      z-index: 2; 
+    }
     td { vertical-align: top; }
-    button, input, textarea { margin: 5px 5px 15px 0; padding: 8px 12px; font-size: 14px; }
-    input, textarea { border: 1px solid #ccc; }
-    textarea { width: 100%; height: 100px; }
+    button, input { margin: 5px 5px 15px 0; padding: 8px 12px; font-size: 14px; }
+    input { border: 1px solid #ccc; }
   </style>
 </head>
 <body>
   <h1>Virtusize Item Responses</h1>
-
+  
   <input type="text" id="brandFilter" placeholder="🔍 Filter by brand..." onkeyup="filterByBrand()">
   <button onclick="exportTableToCSV()">⬇️ Export to CSV</button>
-
-  <!-- ✅ New URL input area -->
-  <h3>Paste Product URLs to Crawl</h3>
-  <textarea id="urlList" placeholder="Paste one URL per line..."></textarea><br>
-  <button onclick="saveUrls()">💾 Save URLs</button>
-  <pre id="savedUrls"></pre>
-
+  
   <div class="table-container">
     <table id="responsesTable">
       <thead>
@@ -3894,6 +3892,8 @@
           <td>levi.jp</td>
         </tr>
   
+      </tbody>
+    </table>
   </div>
 
   <h2>Paste Product URLs</h2>
@@ -3902,6 +3902,16 @@
   <button onclick="exportAsStoreLinksJS()">⬇️ Export storeLinks.js</button>
 
   <script>
+    function filterByBrand() {
+      const input = document.getElementById("brandFilter").value.toLowerCase().trim();
+      const rows = document.querySelectorAll("#responsesTable tbody tr");
+
+      rows.forEach(row => {
+        const brand = row.cells[2].innerText.toLowerCase().trim(); // column 3
+        row.style.display = brand.includes(input) ? "" : "none";
+      });
+    }
+
     function saveUrls() {
       const input = document.getElementById("urlInput").value.trim();
       if (!input) return;
@@ -3933,22 +3943,6 @@ export default [
       link.href = URL.createObjectURL(blob);
       link.download = "storeLinks.js";
       link.click();
-    }
-
-    // ✅ URL Save/Load
-    function saveUrls() {
-      const text = document.getElementById("urlList").value.trim();
-      const urls = text.split(/\n+/).map(u => u.trim()).filter(u => u);
-      document.getElementById("savedUrls").innerText = urls.join("\n");
-      localStorage.setItem("urlList", JSON.stringify(urls));
-    }
-
-    window.onload = function() {
-      const saved = JSON.parse(localStorage.getItem("urlList") || "[]");
-      if (saved.length > 0) {
-        document.getElementById("urlList").value = saved.join("\n");
-        document.getElementById("savedUrls").innerText = saved.join("\n");
-      }
     }
   </script>
 </body>

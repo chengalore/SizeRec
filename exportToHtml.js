@@ -86,6 +86,8 @@ results.forEach(r => {
 });
 
 html += `
+      </tbody>
+    </table>
   </div>
 
   <h2>Paste Product URLs</h2>
@@ -94,6 +96,16 @@ html += `
   <button onclick="exportAsStoreLinksJS()">⬇️ Export storeLinks.js</button>
 
   <script>
+    function filterByBrand() {
+      const input = document.getElementById("brandFilter").value.toLowerCase().trim();
+      const rows = document.querySelectorAll("#responsesTable tbody tr");
+
+      rows.forEach(row => {
+        const brand = row.cells[2].innerText.toLowerCase().trim(); // column 3
+        row.style.display = brand.includes(input) ? "" : "none";
+      });
+    }
+
     function saveUrls() {
       const input = document.getElementById("urlInput").value.trim();
       if (!input) return;
@@ -130,6 +142,7 @@ export default [
 </body>
 </html>
 `;
+
 
 
 // Save as HTML
