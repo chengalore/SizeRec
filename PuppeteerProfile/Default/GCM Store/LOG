@@ -1,2 +1,3 @@
-2025/09/14-01:56:23.838 dd995 Creating DB /Users/rachel/Documents/sizeRec/PuppeteerProfile/Default/GCM Store since it was missing.
-2025/09/14-01:56:23.859 dd995 Reusing MANIFEST /Users/rachel/Documents/sizeRec/PuppeteerProfile/Default/GCM Store/MANIFEST-000001
+2025/09/14-10:56:52.870 10803f Reusing MANIFEST /Users/rachel/Documents/sizeRec/PuppeteerProfile/Default/GCM Store/MANIFEST-000001
+2025/09/14-10:56:52.875 10803f Recovering log #3
+2025/09/14-10:56:52.964 10803f Reusing old log /Users/rachel/Documents/sizeRec/PuppeteerProfile/Default/GCM Store/000003.log 

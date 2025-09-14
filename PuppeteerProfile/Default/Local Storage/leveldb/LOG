@@ -1,3 +1,17 @@
-2025/09/14-01:56:18.298 dd9dd Reusing MANIFEST /Users/rachel/Documents/sizeRec/PuppeteerProfile/Default/Local Storage/leveldb/MANIFEST-000001
-2025/09/14-01:56:18.301 dd9dd Recovering log #3
-2025/09/14-01:56:18.301 dd9dd Reusing old log /Users/rachel/Documents/sizeRec/PuppeteerProfile/Default/Local Storage/leveldb/000003.log 
+2025/09/14-10:56:46.839 108089 Reusing MANIFEST /Users/rachel/Documents/sizeRec/PuppeteerProfile/Default/Local Storage/leveldb/MANIFEST-000001
+2025/09/14-10:56:46.841 108089 Recovering log #149
+2025/09/14-10:56:46.842 108089 Level-0 table #152: started
+2025/09/14-10:56:46.846 108089 Level-0 table #152: 29787 bytes OK
+2025/09/14-10:56:46.852 108089 Delete type=0 #149
+2025/09/14-10:56:46.854 10808c Compacting 4@0 + 1@1 files
+2025/09/14-10:56:46.858 10808c Generated table #154@0: 685 keys, 76092 bytes
+2025/09/14-10:56:46.858 10808c Compacted 4@0 + 1@1 files => 76092 bytes
+2025/09/14-10:56:46.860 10808c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/09/14-10:56:46.860 10808c Delete type=2 #148
+2025/09/14-10:56:46.860 10808c Delete type=2 #152
+2025/09/14-10:56:46.860 10808c Delete type=2 #146
+2025/09/14-10:56:46.860 10808c Delete type=2 #150
+2025/09/14-10:56:46.860 10808c Delete type=2 #144
+2025/09/14-11:07:12.399 10808c Level-0 table #156: started
+2025/09/14-11:07:12.405 10808c Level-0 table #156: 9559 bytes OK
+2025/09/14-11:07:12.411 10808c Delete type=0 #153

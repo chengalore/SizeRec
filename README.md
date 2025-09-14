@@ -25,4 +25,10 @@ Results are saved to:
 pgsql
 Copy code
 itemResponses.json
+
+4. Run your exporter to regenerate the HTML
+node exportToHtml.js
+
+
+👉 This reads itemResponses.json and writes a fresh itemResponses.html.
 ```

@@ -1,134 +1,2662 @@
 [
   {
-    "url": "https://www.makes.jp/c/mens/GX-S24-TP-01",
-    "store": "www.makes.jp",
-    "request": "{\"items\":[{\"additional_info\":{\"brand\":\"god selection xxx\",\"fit\":\"tight\",\"sizes\":{\"M\":{\"height\":680,\"bust\":560,\"shoulder\":340},\"L\":{\"height\":695,\"bust\":585,\"shoulder\":345}},\"style\":\"tanktop\",\"gender\":\"male\",\"item_measurements\":null},\"item_sizes_orig\":{\"M\":{\"height\":680,\"bust\":560,\"shoulder\":340},\"L\":{\"height\":695,\"bust\":585,\"shoulder\":345}},\"product_type\":\"top\",\"ext_product_id\":\"makes_GX-S24-TP-01\"}],\"body_data\":{\"shoulder\":{\"value\":400,\"predicted\":true},\"bicep\":{\"value\":260,\"predicted\":true},\"chest\":{\"value\":860,\"predicted\":true},\"waist\":{\"value\":700,\"predicted\":true},\"hip\":{\"value\":920,\"predicted\":true},\"thigh\":{\"value\":540,\"predicted\":true},\"inseam\":{\"value\":740,\"predicted\":true},\"bust\":{\"value\":855,\"predicted\":true},\"neck\":{\"value\":325,\"predicted\":true},\"rise\":{\"value\":235,\"predicted\":true},\"sleeve\":{\"value\":765,\"predicted\":true},\"underbust\":{\"value\":745,\"predicted\":true},\"hip_width\":{\"value\":325,\"predicted\":true},\"bust_width\":{\"value\":270,\"predicted\":true},\"hip_height\":{\"value\":790,\"predicted\":true},\"head_height\":{\"value\":220,\"predicted\":true},\"knee_height\":{\"value\":415,\"predicted\":true},\"waist_width\":{\"value\":255,\"predicted\":true},\"waist_height\":{\"value\":970,\"predicted\":true},\"armpit_height\":{\"value\":1190,\"predicted\":true},\"sleeve_length\":{\"value\":550,\"predicted\":true},\"shoulder_width\":{\"value\":360,\"predicted\":true},\"shoulder_height\":{\"value\":1310,\"predicted\":true},\"ankle_height\":{\"value\":65,\"predicted\":true},\"bra_country\":{\"value\":\"\",\"predicted\":false},\"bra_cup\":{\"value\":\"\",\"predicted\":false},\"bra_band\":{\"value\":0,\"predicted\":false}},\"app_origin\":2,\"user_gender\":\"female\",\"user_height\":1610,\"user_age\":35,\"user_weight\":55}",
-    "response": [
-      {
-        "extProductId": "makes_GX-S24-TP-01",
-        "sizeName": "M",
-        "secondSize": "L",
-        "fitScore": 7.4,
-        "secondFitScore": 6.8,
-        "fitScoreDifference": 0.15,
-        "virtualItem": {
-          "bust": 427.5,
-          "waist": 370,
-          "hip": null,
-          "inseam": null,
-          "sleeve": null
-        },
-        "willFit": true,
-        "thresholdFitScore": 5.4,
-        "scenario": "general_medians",
-        "willFitForSizes": {
-          "M": true,
-          "L": true
-        },
-        "silhouetteGapLabels": {
-          "M": {
-            "shoulder": {
-              "diff": -60,
-              "label": "tight"
-            },
-            "bust": {
-              "diff": 132.5,
-              "label": "loose"
-            },
-            "height": {
-              "diff": 80,
-              "label": "below"
-            }
-          },
-          "L": {
-            "shoulder": {
-              "diff": -55,
-              "label": "tight"
-            },
-            "bust": {
-              "diff": 157.5,
-              "label": "loose"
-            },
-            "height": {
-              "diff": 95,
-              "label": "below"
-            }
-          }
-        }
-      }
-    ]
+    "timestamp": "2025-09-13T19:22:07.487Z",
+    "url": "https://www.privatelabo.jp/category/GOODS_TYPE/91615633.html?condition=GENDER:G2",
+    "store": "www.privatelabo.jp",
+    "extProductId": "91615633",
+    "payload": {
+      "brand": "rebear by johnbull",
+      "fit": "loose",
+      "sizes": [
+        "ONE"
+      ],
+      "product_type": "shirt",
+      "user_gender": "female",
+      "user_height": 1610,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "FREE",
+      "secondSize": "",
+      "scenario": "general_medians",
+      "willFit": true
+    }
   },
   {
+    "timestamp": "2025-09-13T19:22:20.969Z",
     "url": "https://www.makes.jp/c/mens/CUMU0369A1W8390",
     "store": "www.makes.jp",
-    "request": "{\"items\":[{\"additional_info\":{\"brand\":\"marni\",\"fit\":\"tight\",\"sizes\":{\"46\":{\"height\":800,\"bust\":590,\"shoulder\":550,\"sleeve\":895},\"48\":{\"height\":830,\"bust\":610,\"shoulder\":555,\"sleeve\":907}},\"style\":\"formal\",\"gender\":\"male\",\"item_measurements\":null},\"item_sizes_orig\":{\"46\":{\"height\":800,\"bust\":590,\"shoulder\":550,\"sleeve\":895,\"sleeve_length\":620},\"48\":{\"height\":830,\"bust\":610,\"shoulder\":555,\"sleeve\":907,\"sleeve_length\":630}},\"product_type\":\"jacket\",\"ext_product_id\":\"makes_CUMU0369A1W8390\"}],\"body_data\":{\"shoulder\":{\"value\":400,\"predicted\":true},\"bicep\":{\"value\":260,\"predicted\":true},\"chest\":{\"value\":860,\"predicted\":true},\"waist\":{\"value\":700,\"predicted\":true},\"hip\":{\"value\":920,\"predicted\":true},\"thigh\":{\"value\":540,\"predicted\":true},\"inseam\":{\"value\":740,\"predicted\":true},\"bust\":{\"value\":855,\"predicted\":true},\"neck\":{\"value\":325,\"predicted\":true},\"rise\":{\"value\":235,\"predicted\":true},\"sleeve\":{\"value\":765,\"predicted\":true},\"underbust\":{\"value\":745,\"predicted\":true},\"hip_width\":{\"value\":325,\"predicted\":true},\"bust_width\":{\"value\":270,\"predicted\":true},\"hip_height\":{\"value\":790,\"predicted\":true},\"head_height\":{\"value\":220,\"predicted\":true},\"knee_height\":{\"value\":415,\"predicted\":true},\"waist_width\":{\"value\":255,\"predicted\":true},\"waist_height\":{\"value\":970,\"predicted\":true},\"armpit_height\":{\"value\":1190,\"predicted\":true},\"sleeve_length\":{\"value\":550,\"predicted\":true},\"shoulder_width\":{\"value\":360,\"predicted\":true},\"shoulder_height\":{\"value\":1310,\"predicted\":true},\"ankle_height\":{\"value\":65,\"predicted\":true},\"bra_country\":{\"value\":\"\",\"predicted\":false},\"bra_cup\":{\"value\":\"\",\"predicted\":false},\"bra_band\":{\"value\":0,\"predicted\":false}},\"app_origin\":2,\"user_gender\":\"female\",\"user_height\":1610,\"user_age\":35,\"user_weight\":55}",
-    "response": [
-      {
-        "extProductId": "makes_CUMU0369A1W8390",
-        "sizeName": "46",
-        "secondSize": "48",
-        "fitScore": 6.9,
-        "secondFitScore": 6.4,
-        "fitScoreDifference": 0.2,
-        "virtualItem": {
-          "bust": 487.5,
-          "waist": 440,
-          "hip": null,
-          "inseam": null,
-          "sleeve": 792
-        },
-        "willFit": true,
-        "thresholdFitScore": 6.5,
-        "scenario": "general_medians",
-        "willFitForSizes": {
-          "46": true,
-          "48": true
-        },
-        "silhouetteGapLabels": {
-          "46": {
-            "shoulder": {
-              "diff": 150,
-              "label": "loose"
-            },
-            "height": {
-              "diff": 200,
-              "label": "below"
-            },
-            "bust": {
-              "diff": 162.5,
-              "label": "loose"
-            },
-            "sleeve": {
-              "diff": {
-                "value": 130,
-                "elbow": false
-              },
-              "label": "below"
-            }
-          },
-          "48": {
-            "shoulder": {
-              "diff": 155,
-              "label": "loose"
-            },
-            "height": {
-              "diff": 230,
-              "label": "below"
-            },
-            "bust": {
-              "diff": 182.5,
-              "label": "veryLoose"
-            },
-            "sleeve": {
-              "diff": {
-                "value": 142,
-                "elbow": false
-              },
-              "label": "below"
-            }
-          }
-        }
-      }
-    ]
+    "extProductId": "makes_CUMU0369A1W8390",
+    "payload": {
+      "brand": "marni",
+      "fit": "tight",
+      "sizes": [
+        "46",
+        "48"
+      ],
+      "product_type": "jacket",
+      "user_gender": "male",
+      "user_height": 1880,
+      "user_weight": 80,
+      "user_age": 20
+    },
+    "response": {
+      "sizeName": "46",
+      "secondSize": "48",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-13T19:38:17.469Z",
+    "url": "https://crosset.onward.co.jp/items/PRWMGW0420?bc=005&cc=034",
+    "store": "crosset.onward.co.jp",
+    "extProductId": "PRWMGW0420",
+    "payload": {
+      "brand": "jiyuku",
+      "fit": "wide",
+      "sizes": [
+        "32",
+        "38",
+        "40",
+        "44",
+        "46"
+      ],
+      "product_type": "pants",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "38",
+      "secondSize": "40",
+      "scenario": "model",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-13T19:38:37.371Z",
+    "url": "https://crosset.onward.co.jp/items/OPWMSW0807?bc=005&cc=433",
+    "store": "crosset.onward.co.jp",
+    "extProductId": "OPWMSW0807",
+    "payload": {
+      "brand": "jiyuku",
+      "fit": "regular",
+      "sizes": [
+        "32",
+        "36",
+        "38",
+        "40",
+        "44",
+        "46",
+        "48"
+      ],
+      "product_type": "dress_a_line",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "40",
+      "secondSize": "44",
+      "scenario": "model",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-13T19:38:57.102Z",
+    "url": "https://crosset.onward.co.jp/items/CMWMGW0519?bc=005&cc=003",
+    "store": "crosset.onward.co.jp",
+    "extProductId": "CMWMGW0519",
+    "payload": {
+      "brand": "jiyuku",
+      "fit": "regular",
+      "sizes": [
+        "32",
+        "36",
+        "38",
+        "40",
+        "44",
+        "46",
+        "48"
+      ],
+      "product_type": "coat",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "40",
+      "secondSize": "38",
+      "scenario": "model",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-13T19:39:14.844Z",
+    "url": "https://crosset.onward.co.jp/items/OPWMGW0414?bc=005&cc=575",
+    "store": "crosset.onward.co.jp",
+    "extProductId": "OPWMGW0414",
+    "payload": {
+      "brand": "jiyuku",
+      "fit": "regular",
+      "sizes": [
+        "32",
+        "36",
+        "38",
+        "40",
+        "44",
+        "46"
+      ],
+      "product_type": "dress_a_line",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "44",
+      "secondSize": "46",
+      "scenario": "model",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-13T19:39:35.360Z",
+    "url": "https://crosset.onward.co.jp/items/BLWMGA0203?bc=005&cc=002",
+    "store": "crosset.onward.co.jp",
+    "extProductId": "BLWMGA0203",
+    "payload": {
+      "brand": "jiyuku",
+      "fit": "regular",
+      "sizes": [
+        "32",
+        "38",
+        "40",
+        "44",
+        "46"
+      ],
+      "product_type": "shirt",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "40",
+      "secondSize": "38",
+      "scenario": "model",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-13T19:40:10.596Z",
+    "url": "https://crosset.onward.co.jp/items/SCWMGW0522?bc=005&cc=034",
+    "store": "crosset.onward.co.jp",
+    "extProductId": "SCWMGW0522",
+    "payload": {
+      "brand": "jiyuku",
+      "fit": "regular",
+      "sizes": [
+        "32",
+        "36",
+        "38",
+        "40",
+        "44",
+        "46"
+      ],
+      "product_type": "coat",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "40",
+      "secondSize": "44",
+      "scenario": "model",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-13T19:40:28.714Z",
+    "url": "https://crosset.onward.co.jp/items/OPWMGW0556?bc=005&cc=003",
+    "store": "crosset.onward.co.jp",
+    "extProductId": "OPWMGW0556",
+    "payload": {
+      "brand": "jiyuku",
+      "fit": "regular",
+      "sizes": [
+        "32",
+        "38",
+        "44"
+      ],
+      "product_type": "tunic_sleeve",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "38",
+      "secondSize": "32",
+      "scenario": "model",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-13T19:40:49.780Z",
+    "url": "https://crosset.onward.co.jp/items/JKWMGW0401?bc=005&cc=033",
+    "store": "crosset.onward.co.jp",
+    "extProductId": "JKWMGW0401",
+    "payload": {
+      "brand": "l",
+      "fit": "regular",
+      "sizes": [
+        "32",
+        "34",
+        "36",
+        "38",
+        "40",
+        "42",
+        "44",
+        "46",
+        "48"
+      ],
+      "product_type": "jacket",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "40",
+      "secondSize": "42",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-13T19:41:06.417Z",
+    "url": "https://crosset.onward.co.jp/items/OPWMGW0313?bc=005&cc=533",
+    "store": "crosset.onward.co.jp",
+    "extProductId": "OPWMGW0313",
+    "payload": {
+      "brand": "jiyuku",
+      "fit": "regular",
+      "sizes": [
+        "32",
+        "36",
+        "38",
+        "40",
+        "44",
+        "46",
+        "48"
+      ],
+      "product_type": "tunic_sleeve",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "40",
+      "secondSize": "38",
+      "scenario": "model",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-13T19:41:26.530Z",
+    "url": "https://crosset.onward.co.jp/items/SCWMGW0501?bc=005&cc=005",
+    "store": "crosset.onward.co.jp",
+    "extProductId": "SCWMGW0501",
+    "payload": {
+      "brand": "jiyuku",
+      "fit": "loose",
+      "sizes": [
+        "32",
+        "36",
+        "38",
+        "40",
+        "44",
+        "46"
+      ],
+      "product_type": "coat",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "40",
+      "secondSize": "38",
+      "scenario": "model",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-13T19:41:48.297Z",
+    "url": "https://crosset.onward.co.jp/items/KKWMGM0336?bc=005&cc=002",
+    "store": "crosset.onward.co.jp",
+    "extProductId": "KKWMGM0336",
+    "payload": {
+      "brand": "jiyuku",
+      "fit": "tight",
+      "sizes": [
+        "32",
+        "38",
+        "40",
+        "44",
+        "46"
+      ],
+      "product_type": "top",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "38",
+      "secondSize": "40",
+      "scenario": "model",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-13T19:42:06.501Z",
+    "url": "https://crosset.onward.co.jp/items/SKW9GA0356?bc=005&cc=574",
+    "store": "crosset.onward.co.jp",
+    "extProductId": "SKW9GA0356",
+    "payload": {
+      "brand": "l",
+      "fit": "flared",
+      "sizes": [
+        "32",
+        "38",
+        "40"
+      ],
+      "product_type": "skirt",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "38",
+      "secondSize": "40",
+      "scenario": "brand_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-13T19:42:31.470Z",
+    "url": "https://crosset.onward.co.jp/items/BLWMGM0309?bc=005&cc=002",
+    "store": "crosset.onward.co.jp",
+    "extProductId": "BLWMGM0309",
+    "payload": {
+      "brand": "jiyuku",
+      "fit": "tight",
+      "sizes": [
+        "32",
+        "38",
+        "40",
+        "44",
+        "46"
+      ],
+      "product_type": "shirt",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "38",
+      "secondSize": "40",
+      "scenario": "model",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-13T19:42:51.586Z",
+    "url": "https://crosset.onward.co.jp/items/KRWMGW0354?bc=005&cc=004",
+    "store": "crosset.onward.co.jp",
+    "extProductId": "KRWMGW0354",
+    "payload": {
+      "brand": "jiyuku",
+      "fit": "tight",
+      "sizes": [
+        "32",
+        "38",
+        "44"
+      ],
+      "product_type": "sweater",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "38",
+      "secondSize": "44",
+      "scenario": "model",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-13T19:43:18.794Z",
+    "url": "https://crosset.onward.co.jp/items/OPWMSM0415?bc=005&cc=475",
+    "store": "crosset.onward.co.jp",
+    "extProductId": "OPWMSM0415",
+    "payload": {
+      "brand": "jiyuku",
+      "fit": "regular",
+      "sizes": [
+        "32",
+        "36",
+        "38",
+        "40",
+        "44",
+        "46",
+        "48"
+      ],
+      "product_type": "dress_a_line",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "40",
+      "secondSize": "46",
+      "scenario": "model",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-13T19:43:37.522Z",
+    "url": "https://crosset.onward.co.jp/items/BLWMGW0414?bc=005&cc=530",
+    "store": "crosset.onward.co.jp",
+    "extProductId": "BLWMGW0414",
+    "payload": {
+      "brand": "jiyuku",
+      "fit": "regular",
+      "sizes": [
+        "32",
+        "38",
+        "40",
+        "44",
+        "46"
+      ],
+      "product_type": "shirt",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "40",
+      "secondSize": "38",
+      "scenario": "model",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-13T19:44:03.731Z",
+    "url": "https://crosset.onward.co.jp/items/PRWMGS0012?bc=005&cc=033",
+    "store": "crosset.onward.co.jp",
+    "extProductId": "PRWMGS0012",
+    "payload": {
+      "brand": "jiyuku",
+      "fit": "wide",
+      "sizes": [
+        "30",
+        "32",
+        "34",
+        "36",
+        "38",
+        "40",
+        "42",
+        "44",
+        "46",
+        "48"
+      ],
+      "product_type": "pants",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "38",
+      "secondSize": "40",
+      "scenario": "model",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-13T19:44:26.008Z",
+    "url": "https://crosset.onward.co.jp/items/OPWMSW0413?bc=005&cc=505",
+    "store": "crosset.onward.co.jp",
+    "extProductId": "OPWMSW0413",
+    "payload": {
+      "brand": "s",
+      "fit": "regular",
+      "sizes": [
+        "32",
+        "38",
+        "40",
+        "44",
+        "46",
+        "48"
+      ],
+      "product_type": "tunic_sleeve",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "38",
+      "secondSize": "40",
+      "scenario": "brand_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-13T19:44:49.211Z",
+    "url": "https://crosset.onward.co.jp/items/BLWMGA0106?bc=005&cc=062",
+    "store": "crosset.onward.co.jp",
+    "extProductId": "BLWMGA0106",
+    "payload": {
+      "brand": "jiyuku",
+      "fit": "regular",
+      "sizes": [
+        "32",
+        "38",
+        "40",
+        "44",
+        "46"
+      ],
+      "product_type": "shirt",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "38",
+      "secondSize": "40",
+      "scenario": "model",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-13T19:45:10.637Z",
+    "url": "https://crosset.onward.co.jp/items/KKWMGM0336?cc=002",
+    "store": "crosset.onward.co.jp",
+    "extProductId": "KKWMGM0336",
+    "payload": {
+      "brand": "jiyuku",
+      "fit": "tight",
+      "sizes": [
+        "32",
+        "38",
+        "40",
+        "44",
+        "46"
+      ],
+      "product_type": "top",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "38",
+      "secondSize": "40",
+      "scenario": "model",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-13T19:45:30.544Z",
+    "url": "https://crosset.onward.co.jp/items/KKWMGA0035?cc=002",
+    "store": "crosset.onward.co.jp",
+    "extProductId": "KKWMGA0035",
+    "payload": {
+      "brand": "l",
+      "fit": "regular",
+      "sizes": [
+        "32",
+        "38",
+        "40",
+        "44",
+        "46",
+        "48"
+      ],
+      "product_type": "sweater",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "38",
+      "secondSize": "40",
+      "scenario": "brand_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-13T19:45:48.391Z",
+    "url": "https://crosset.onward.co.jp/items/OPWMGW0414?cc=575",
+    "store": "crosset.onward.co.jp",
+    "extProductId": "OPWMGW0414",
+    "payload": {
+      "brand": "jiyuku",
+      "fit": "regular",
+      "sizes": [
+        "32",
+        "36",
+        "38",
+        "40",
+        "44",
+        "46"
+      ],
+      "product_type": "dress_a_line",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "44",
+      "secondSize": "46",
+      "scenario": "model",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-13T19:46:05.812Z",
+    "url": "https://crosset.onward.co.jp/items/KRW9GA0352?cc=075",
+    "store": "crosset.onward.co.jp",
+    "extProductId": "KRW9GA0352",
+    "payload": {
+      "brand": "jiyuku",
+      "fit": "loose",
+      "sizes": [
+        "38"
+      ],
+      "product_type": "sweater",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "38",
+      "secondSize": "",
+      "scenario": "model",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-13T19:46:43.197Z",
+    "url": "https://crosset.onward.co.jp/items/BLWMGW0308?cc=002",
+    "store": "crosset.onward.co.jp",
+    "extProductId": "BLWMGW0308",
+    "payload": {
+      "brand": "jiyuku",
+      "fit": "regular",
+      "sizes": [
+        "32",
+        "38",
+        "40",
+        "44",
+        "46",
+        "48"
+      ],
+      "product_type": "shirt",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "40",
+      "secondSize": "44",
+      "scenario": "model",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-13T19:47:01.247Z",
+    "url": "https://crosset.onward.co.jp/items/OPW9GA0356?cc=533",
+    "store": "crosset.onward.co.jp",
+    "extProductId": "OPW9GA0356",
+    "payload": {
+      "brand": "jiyuku",
+      "fit": "tight",
+      "sizes": [
+        "32",
+        "38",
+        "40"
+      ],
+      "product_type": "dress_a_line",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "40",
+      "secondSize": "38",
+      "scenario": "model",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-13T19:47:24.900Z",
+    "url": "https://crosset.onward.co.jp/items/OPWMSW0807?cc=433",
+    "store": "crosset.onward.co.jp",
+    "extProductId": "OPWMSW0807",
+    "payload": {
+      "brand": "jiyuku",
+      "fit": "regular",
+      "sizes": [
+        "32",
+        "36",
+        "38",
+        "40",
+        "44",
+        "46",
+        "48"
+      ],
+      "product_type": "dress_a_line",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "40",
+      "secondSize": "44",
+      "scenario": "model",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-13T19:47:43.034Z",
+    "url": "https://crosset.onward.co.jp/items/OPW9GA0352?cc=074",
+    "store": "crosset.onward.co.jp",
+    "extProductId": "OPW9GA0352",
+    "payload": {
+      "brand": "l",
+      "fit": "regular",
+      "sizes": [
+        "38"
+      ],
+      "product_type": "tunic_sleeve",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "38",
+      "secondSize": "",
+      "scenario": "brand_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-13T19:48:03.125Z",
+    "url": "https://crosset.onward.co.jp/items/CMWMCW0504?cc=054",
+    "store": "crosset.onward.co.jp",
+    "extProductId": "CMWMCW0504",
+    "payload": {
+      "brand": "jiyuku",
+      "fit": "regular",
+      "sizes": [
+        "32",
+        "36",
+        "38",
+        "40",
+        "44",
+        "46",
+        "48"
+      ],
+      "product_type": "coat",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "40",
+      "secondSize": "44",
+      "scenario": "model",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-13T19:48:21.207Z",
+    "url": "https://crosset.onward.co.jp/items/SCWMGW0522?cc=034",
+    "store": "crosset.onward.co.jp",
+    "extProductId": "SCWMGW0522",
+    "payload": {
+      "brand": "jiyuku",
+      "fit": "regular",
+      "sizes": [
+        "32",
+        "36",
+        "38",
+        "40",
+        "44",
+        "46"
+      ],
+      "product_type": "coat",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "40",
+      "secondSize": "44",
+      "scenario": "model",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-13T19:48:45.634Z",
+    "url": "https://crosset.onward.co.jp/items/OPWMCM0406?cc=004",
+    "store": "crosset.onward.co.jp",
+    "extProductId": "OPWMCM0406",
+    "payload": {
+      "brand": "jiyuku",
+      "fit": "regular",
+      "sizes": [
+        "32",
+        "36",
+        "38",
+        "40",
+        "42",
+        "44",
+        "46"
+      ],
+      "product_type": "tunic_sleeve",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "40",
+      "secondSize": "42",
+      "scenario": "model",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-13T19:49:03.332Z",
+    "url": "https://crosset.onward.co.jp/items/KRWMGW0558?cc=070",
+    "store": "crosset.onward.co.jp",
+    "extProductId": "KRWMGW0558",
+    "payload": {
+      "brand": "s",
+      "fit": "loose",
+      "sizes": [
+        "32",
+        "38",
+        "44",
+        "46"
+      ],
+      "product_type": "sweater",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "38",
+      "secondSize": "44",
+      "scenario": "brand_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-13T19:49:20.723Z",
+    "url": "https://crosset.onward.co.jp/items/KRWMGW0559?cc=070",
+    "store": "crosset.onward.co.jp",
+    "extProductId": "KRWMGW0559",
+    "payload": {
+      "brand": "jiyuku",
+      "fit": "loose",
+      "sizes": [
+        "32",
+        "38",
+        "44",
+        "46"
+      ],
+      "product_type": "sweater",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "38",
+      "secondSize": "32",
+      "scenario": "model",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-13T19:49:38.295Z",
+    "url": "https://crosset.onward.co.jp/items/KRWMGW0552?cc=033",
+    "store": "crosset.onward.co.jp",
+    "extProductId": "KRWMGW0552",
+    "payload": {
+      "brand": "jiyuku",
+      "fit": "regular",
+      "sizes": [
+        "32",
+        "38",
+        "44"
+      ],
+      "product_type": "sweater",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "38",
+      "secondSize": "44",
+      "scenario": "model",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-13T19:49:56.368Z",
+    "url": "https://crosset.onward.co.jp/items/VRWMGW0522?cc=034",
+    "store": "crosset.onward.co.jp",
+    "extProductId": "VRWMGW0522",
+    "payload": {
+      "brand": "jiyuku",
+      "fit": "regular",
+      "sizes": [
+        "32",
+        "38",
+        "44",
+        "46"
+      ],
+      "product_type": "top",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "38",
+      "secondSize": "44",
+      "scenario": "model",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-13T19:50:15.444Z",
+    "url": "https://crosset.onward.co.jp/items/KRWMGW0557?cc=075",
+    "store": "crosset.onward.co.jp",
+    "extProductId": "KRWMGW0557",
+    "payload": {
+      "brand": "jiyuku",
+      "fit": "loose",
+      "sizes": [
+        "32",
+        "38",
+        "44"
+      ],
+      "product_type": "sweater",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "38",
+      "secondSize": "44",
+      "scenario": "model",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-13T19:50:32.594Z",
+    "url": "https://crosset.onward.co.jp/items/BLWMGW0414?cc=530",
+    "store": "crosset.onward.co.jp",
+    "extProductId": "BLWMGW0414",
+    "payload": {
+      "brand": "jiyuku",
+      "fit": "regular",
+      "sizes": [
+        "32",
+        "38",
+        "40",
+        "44",
+        "46"
+      ],
+      "product_type": "shirt",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "40",
+      "secondSize": "38",
+      "scenario": "model",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-13T19:50:50.455Z",
+    "url": "https://crosset.onward.co.jp/items/KKWMGW0431?cc=004",
+    "store": "crosset.onward.co.jp",
+    "extProductId": "KKWMGW0431",
+    "payload": {
+      "brand": "jiyuku",
+      "fit": "loose",
+      "sizes": [
+        "32",
+        "38",
+        "40",
+        "44",
+        "46"
+      ],
+      "product_type": "t_shirt",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "40",
+      "secondSize": "44",
+      "scenario": "model",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-13T19:51:08.037Z",
+    "url": "https://crosset.onward.co.jp/items/KKWMGW0532?cc=033",
+    "store": "crosset.onward.co.jp",
+    "extProductId": "KKWMGW0532",
+    "payload": {
+      "brand": "l",
+      "fit": "regular",
+      "sizes": [
+        "32",
+        "38",
+        "40",
+        "44",
+        "46"
+      ],
+      "product_type": "sweater",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "38",
+      "secondSize": "32",
+      "scenario": "brand_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-13T19:51:43.022Z",
+    "url": "https://crosset.onward.co.jp/items/KRW9GW0357?cc=030",
+    "store": "crosset.onward.co.jp",
+    "extProductId": "KRW9GW0357",
+    "payload": {
+      "brand": "jiyuku",
+      "fit": "regular",
+      "sizes": [
+        "38"
+      ],
+      "product_type": "top",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "38",
+      "secondSize": "",
+      "scenario": "model",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-13T19:51:58.094Z",
+    "url": "https://crosset.onward.co.jp/items/KRW9GW0455?cc=002",
+    "store": "crosset.onward.co.jp",
+    "extProductId": "KRW9GW0455",
+    "payload": {
+      "brand": "jiyuku",
+      "fit": "regular",
+      "sizes": [
+        "32",
+        "38",
+        "40"
+      ],
+      "product_type": "sweater",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "38",
+      "secondSize": "40",
+      "scenario": "model",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-13T19:52:16.185Z",
+    "url": "https://crosset.onward.co.jp/items/KRW9GW0559?cc=034",
+    "store": "crosset.onward.co.jp",
+    "extProductId": "KRW9GW0559",
+    "payload": {
+      "brand": "l",
+      "fit": "tight",
+      "sizes": [
+        "32",
+        "38",
+        "40"
+      ],
+      "product_type": "sweater",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "38",
+      "secondSize": "32",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-13T19:52:33.991Z",
+    "url": "https://crosset.onward.co.jp/items/KRW9GW0560?cc=004",
+    "store": "crosset.onward.co.jp",
+    "extProductId": "KRW9GW0560",
+    "payload": {
+      "brand": "jiyuku",
+      "fit": "regular",
+      "sizes": [
+        "32",
+        "38",
+        "40"
+      ],
+      "product_type": "sweater",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "40",
+      "secondSize": "38",
+      "scenario": "brand_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-13T19:52:51.195Z",
+    "url": "https://crosset.onward.co.jp/items/KKWMGW0433?cc=002",
+    "store": "crosset.onward.co.jp",
+    "extProductId": "KKWMGW0433",
+    "payload": {
+      "brand": "jiyuku",
+      "fit": "regular",
+      "sizes": [
+        "32",
+        "38",
+        "40",
+        "44",
+        "46"
+      ],
+      "product_type": "t_shirt",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "46",
+      "secondSize": "44",
+      "scenario": "brand_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-13T19:53:08.024Z",
+    "url": "https://crosset.onward.co.jp/items/KKWMGW0436?cc=002",
+    "store": "crosset.onward.co.jp",
+    "extProductId": "KKWMGW0436",
+    "payload": {
+      "brand": "jiyuku",
+      "fit": "regular",
+      "sizes": [
+        "32",
+        "38",
+        "44",
+        "46"
+      ],
+      "product_type": "t_shirt",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "38",
+      "secondSize": "44",
+      "scenario": "brand_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-13T19:53:26.279Z",
+    "url": "https://crosset.onward.co.jp/items/KKWMLS0435?cc=002",
+    "store": "crosset.onward.co.jp",
+    "extProductId": "KKWMLS0435",
+    "payload": {
+      "brand": "jiyuku",
+      "fit": "regular",
+      "sizes": [
+        "32",
+        "38",
+        "44",
+        "46"
+      ],
+      "product_type": "t_shirt",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "44",
+      "secondSize": "46",
+      "scenario": "model",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-13T19:53:41.162Z",
+    "url": "https://crosset.onward.co.jp/items/KRWMGW0453?cc=703",
+    "store": "crosset.onward.co.jp",
+    "extProductId": "KRWMGW0453",
+    "payload": {
+      "brand": "jiyuku",
+      "fit": "loose",
+      "sizes": [
+        "32",
+        "38",
+        "44"
+      ],
+      "product_type": "sweater",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "44",
+      "secondSize": "38",
+      "scenario": "model",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-13T19:53:58.206Z",
+    "url": "https://crosset.onward.co.jp/items/KRWMGW0461?cc=034",
+    "store": "crosset.onward.co.jp",
+    "extProductId": "KRWMGW0461",
+    "payload": {
+      "brand": "jiyuku",
+      "fit": "regular",
+      "sizes": [
+        "32",
+        "38",
+        "44"
+      ],
+      "product_type": "top",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "38",
+      "secondSize": "44",
+      "scenario": "model",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-13T19:54:34.015Z",
+    "url": "https://crosset.onward.co.jp/items/KRWMGW0458?cc=002",
+    "store": "crosset.onward.co.jp",
+    "extProductId": "KRWMGW0458",
+    "payload": {
+      "brand": "jiyuku",
+      "fit": "tight",
+      "sizes": [
+        "32",
+        "38",
+        "40",
+        "44",
+        "46"
+      ],
+      "product_type": "sweater",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "40",
+      "secondSize": "44",
+      "scenario": "model",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-13T19:54:50.551Z",
+    "url": "https://crosset.onward.co.jp/items/ZZRUUW3021?bc=087&cc=000",
+    "store": "crosset.onward.co.jp",
+    "extProductId": "ZZRUUW3021",
+    "payload": {
+      "brand": "onward reuse park",
+      "fit": "tight",
+      "sizes": [
+        "2"
+      ],
+      "product_type": "dress_a_line",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "2",
+      "secondSize": "",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-13T19:55:07.874Z",
+    "url": "https://crosset.onward.co.jp/items/ZZRUBS1076?bc=087&cc=000",
+    "store": "crosset.onward.co.jp",
+    "extProductId": "ZZRUBS1076",
+    "payload": {
+      "brand": "onward reuse park",
+      "fit": "loose",
+      "sizes": [
+        "S"
+      ],
+      "product_type": "sweater",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "S",
+      "secondSize": "",
+      "scenario": "brand_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-13T19:55:24.655Z",
+    "url": "https://crosset.onward.co.jp/items/ZZRUCS2183?bc=087&cc=000",
+    "store": "crosset.onward.co.jp",
+    "extProductId": "ZZRUCS2183",
+    "payload": {
+      "brand": "onward reuse park",
+      "fit": "flared",
+      "sizes": [
+        "6"
+      ],
+      "product_type": "skirt",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "6",
+      "secondSize": "",
+      "scenario": "brand_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-13T19:55:42.621Z",
+    "url": "https://crosset.onward.co.jp/items/KRURCA0127?bc=106&cc=091",
+    "store": "crosset.onward.co.jp",
+    "extProductId": "KRURCA0127",
+    "payload": {
+      "brand": "unfilo",
+      "fit": "tight",
+      "sizes": [
+        "M",
+        "S",
+        "XL"
+      ],
+      "product_type": "top",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "XL",
+      "secondSize": "M",
+      "scenario": "brand_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-13T19:55:59.720Z",
+    "url": "https://crosset.onward.co.jp/items/KRURCA0126?bc=106&cc=005",
+    "store": "crosset.onward.co.jp",
+    "extProductId": "KRURCA0126",
+    "payload": {
+      "brand": "unfilo",
+      "fit": "tight",
+      "sizes": [
+        "M",
+        "S",
+        "XL"
+      ],
+      "product_type": "sweater",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "M",
+      "secondSize": "S",
+      "scenario": "brand_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-13T19:56:19.655Z",
+    "url": "https://crosset.onward.co.jp/items/KRUMCA0126?bc=105&cc=005",
+    "store": "crosset.onward.co.jp",
+    "extProductId": "KRUMCA0126",
+    "payload": {
+      "brand": "unfilo",
+      "fit": "tight",
+      "sizes": [
+        "M",
+        "S",
+        "XL"
+      ],
+      "product_type": "sweater",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "M",
+      "secondSize": "S",
+      "scenario": "brand_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-13T19:56:36.834Z",
+    "url": "https://crosset.onward.co.jp/items/ZZRUCS1578?bc=087&cc=000",
+    "store": "crosset.onward.co.jp",
+    "extProductId": "ZZRUCS1578",
+    "payload": {
+      "brand": "onward reuse park",
+      "fit": "flared",
+      "sizes": [
+        "S"
+      ],
+      "product_type": "skirt",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "S",
+      "secondSize": "",
+      "scenario": "brand_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-13T19:56:57.156Z",
+    "url": "https://crosset.onward.co.jp/items/KKGJGM6555?bc=025&cc=075",
+    "store": "crosset.onward.co.jp",
+    "extProductId": "KKGJGM6555",
+    "payload": {
+      "brand": "j.press",
+      "fit": "tight",
+      "sizes": [
+        "L",
+        "M",
+        "S",
+        "T13",
+        "T15"
+      ],
+      "product_type": "top",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "M",
+      "secondSize": "L",
+      "scenario": "brand_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-13T19:57:14.526Z",
+    "url": "https://crosset.onward.co.jp/items/BLWLGS0304?bc=702&cc=002",
+    "store": "crosset.onward.co.jp",
+    "extProductId": "BLWLGS0304",
+    "payload": {
+      "brand": "kumikyoku",
+      "fit": "regular",
+      "sizes": [
+        "2",
+        "3",
+        "5",
+        "6",
+        "7",
+        "S2"
+      ],
+      "product_type": "shirt",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "3",
+      "secondSize": "2",
+      "scenario": "brand_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-13T19:57:31.887Z",
+    "url": "https://crosset.onward.co.jp/items/ZZRUUM7874?bc=087&cc=000",
+    "store": "crosset.onward.co.jp",
+    "extProductId": "ZZRUUM7874",
+    "payload": {
+      "brand": "onward reuse park",
+      "fit": "tight",
+      "sizes": [
+        "4"
+      ],
+      "product_type": "dress_a_line",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "4",
+      "secondSize": "",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-13T19:57:48.846Z",
+    "url": "https://crosset.onward.co.jp/items/ZZRUBM9724?bc=087&cc=000",
+    "store": "crosset.onward.co.jp",
+    "extProductId": "ZZRUBM9724",
+    "payload": {
+      "brand": "onward reuse park",
+      "fit": "regular",
+      "sizes": [
+        "4"
+      ],
+      "product_type": "pants",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "4",
+      "secondSize": "",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-13T19:58:13.070Z",
+    "url": "https://crosset.onward.co.jp/items/KKFXGA0271?bc=019&cc=012",
+    "store": "crosset.onward.co.jp",
+    "extProductId": "KKFXGA0271",
+    "payload": {
+      "brand": "any fam",
+      "fit": "regular",
+      "sizes": [
+        "ONE"
+      ],
+      "product_type": "t_shirt",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "F",
+      "secondSize": "",
+      "scenario": "model",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-13T19:58:50.200Z",
+    "url": "https://crosset.onward.co.jp/items/SKURCM0620?bc=106&cc=035",
+    "store": "crosset.onward.co.jp",
+    "extProductId": "SKURCM0620",
+    "payload": {
+      "brand": "unfilo",
+      "fit": "flared",
+      "sizes": [
+        "L",
+        "M",
+        "S",
+        "XL"
+      ],
+      "product_type": "skirt",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "S",
+      "secondSize": "M",
+      "scenario": "brand_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-13T19:59:27.678Z",
+    "url": "https://crosset.onward.co.jp/items/0H000430400?bc=542&cc=307",
+    "store": "crosset.onward.co.jp",
+    "extProductId": "0H000430400",
+    "payload": {
+      "brand": "american holic",
+      "fit": "tight",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "product_type": "skirt",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "L",
+      "secondSize": "M",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-13T19:59:50.690Z",
+    "url": "https://crosset.onward.co.jp/items/ZZRUUW3021?cc=000",
+    "store": "crosset.onward.co.jp",
+    "extProductId": "ZZRUUW3021",
+    "payload": {
+      "brand": "onward reuse park",
+      "fit": "tight",
+      "sizes": [
+        "2"
+      ],
+      "product_type": "dress_a_line",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "2",
+      "secondSize": "",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-13T20:00:08.564Z",
+    "url": "https://crosset.onward.co.jp/items/ZZRUBS1076?cc=000",
+    "store": "crosset.onward.co.jp",
+    "extProductId": "ZZRUBS1076",
+    "payload": {
+      "brand": "onward reuse park",
+      "fit": "loose",
+      "sizes": [
+        "S"
+      ],
+      "product_type": "sweater",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "S",
+      "secondSize": "",
+      "scenario": "brand_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-13T20:00:24.526Z",
+    "url": "https://crosset.onward.co.jp/items/ZZRUCS2183?cc=000",
+    "store": "crosset.onward.co.jp",
+    "extProductId": "ZZRUCS2183",
+    "payload": {
+      "brand": "onward reuse park",
+      "fit": "flared",
+      "sizes": [
+        "6"
+      ],
+      "product_type": "skirt",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "6",
+      "secondSize": "",
+      "scenario": "brand_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-13T20:00:41.255Z",
+    "url": "https://crosset.onward.co.jp/items/KRURCA0127?cc=091",
+    "store": "crosset.onward.co.jp",
+    "extProductId": "KRURCA0127",
+    "payload": {
+      "brand": "unfilo",
+      "fit": "tight",
+      "sizes": [
+        "M",
+        "S",
+        "XL"
+      ],
+      "product_type": "top",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "XL",
+      "secondSize": "M",
+      "scenario": "brand_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T02:57:23.547Z",
+    "url": "https://re-touch.tokyo/products/aa-backprint-tee-white?vs-test",
+    "store": "re-touch.tokyo",
+    "extProductId": "aa-backprint-tee-white",
+    "payload": {
+      "brand": "retouch",
+      "fit": "tight",
+      "sizes": [
+        "M-",
+        "L-",
+        "XL-"
+      ],
+      "product_type": "t_shirt",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "M-",
+      "secondSize": "L-",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T02:57:32.604Z",
+    "url": "https://re-touch.tokyo/products/aa-backprint-tee-black?vs-test",
+    "store": "re-touch.tokyo",
+    "extProductId": "aa-backprint-tee-black",
+    "payload": {
+      "brand": "retouch",
+      "fit": "regular",
+      "sizes": [
+        "M-",
+        "L-",
+        "XL-"
+      ],
+      "product_type": "t_shirt",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "M-",
+      "secondSize": "L-",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T02:58:49.088Z",
+    "url": "https://re-touch.tokyo/products/relaxed-fit-l-s-shirt-navy?vs-test",
+    "store": "re-touch.tokyo",
+    "extProductId": "relaxed-fit-l-s-shirt-navy",
+    "payload": {
+      "brand": "retouch",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "sweater",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "S",
+      "secondSize": "M",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T03:00:44.437Z",
+    "url": "https://re-touch.tokyo/products/1tuck-wide-easy-half-slacks-black?vs-test",
+    "store": "re-touch.tokyo",
+    "extProductId": "1tuck-wide-easy-half-slacks-black",
+    "payload": {
+      "brand": "retouch",
+      "fit": "wide",
+      "sizes": [
+        "S",
+        "L",
+        "XL",
+        "M"
+      ],
+      "product_type": "shorts",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "",
+      "secondSize": "",
+      "scenario": "",
+      "willFit": false
+    }
+  },
+  {
+    "timestamp": "2025-09-14T03:00:56.150Z",
+    "url": "https://re-touch.tokyo/products/1tuck-wide-easy-half-slacks-gray?vs-test",
+    "store": "re-touch.tokyo",
+    "extProductId": "1tuck-wide-easy-half-slacks-gray",
+    "payload": {
+      "brand": "retouch",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "L",
+        "XL",
+        "M"
+      ],
+      "product_type": "shorts",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "S",
+      "secondSize": "M",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T03:01:09.027Z",
+    "url": "https://re-touch.tokyo/products/l-s-tee-wave-gray?vs-test",
+    "store": "re-touch.tokyo",
+    "extProductId": "l-s-tee-wave-gray",
+    "payload": {
+      "brand": "retouch",
+      "fit": "tight",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "t_shirt",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "S",
+      "secondSize": "M",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T03:01:21.738Z",
+    "url": "https://re-touch.tokyo/products/l-s-tee-wave-white?vs-test",
+    "store": "re-touch.tokyo",
+    "extProductId": "l-s-tee-wave-white",
+    "payload": {
+      "brand": "retouch",
+      "fit": "tight",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "t_shirt",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "S",
+      "secondSize": "M",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T03:01:36.251Z",
+    "url": "https://re-touch.tokyo/products/l-s-tee-wave-black?vs-test",
+    "store": "re-touch.tokyo",
+    "extProductId": "l-s-tee-wave-black",
+    "payload": {
+      "brand": "retouch",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "t_shirt",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "S",
+      "secondSize": "M",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T03:01:48.449Z",
+    "url": "https://re-touch.tokyo/products/2pack-crewneck-tee-black?vs-test",
+    "store": "re-touch.tokyo",
+    "extProductId": "2pack-crewneck-tee-black",
+    "payload": {
+      "brand": "retouch",
+      "fit": "tight",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "t_shirt",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "S",
+      "secondSize": "M",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T03:02:00.998Z",
+    "url": "https://re-touch.tokyo/products/2pack-crewneck-tee-white?vs-test",
+    "store": "re-touch.tokyo",
+    "extProductId": "2pack-crewneck-tee-white",
+    "payload": {
+      "brand": "retouch",
+      "fit": "tight",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "t_shirt",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "S",
+      "secondSize": "M",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T03:02:14.833Z",
+    "url": "https://re-touch.tokyo/products/knit-polo-shirt?vs-test",
+    "store": "re-touch.tokyo",
+    "extProductId": "knit-polo-shirt",
+    "payload": {
+      "brand": "retouch",
+      "fit": "tight",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "t_shirt",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "S",
+      "secondSize": "M",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T03:02:30.347Z",
+    "url": "https://re-touch.tokyo/products/2tuck-wide-slacks-black?vs-test",
+    "store": "re-touch.tokyo",
+    "extProductId": "2tuck-wide-slacks-black",
+    "payload": {
+      "brand": "retouch",
+      "fit": "wide",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "pants",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "S",
+      "secondSize": "M",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T03:02:41.876Z",
+    "url": "https://re-touch.tokyo/products/2tuck-wide-slacks-gray?vs-test",
+    "store": "re-touch.tokyo",
+    "extProductId": "2tuck-wide-slacks-gray",
+    "payload": {
+      "brand": "retouch",
+      "fit": "wide",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "pants",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "S",
+      "secondSize": "M",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T03:02:54.976Z",
+    "url": "https://re-touch.tokyo/products/open-collar-shirts-black?vs-test",
+    "store": "re-touch.tokyo",
+    "extProductId": "open-collar-shirts-black",
+    "payload": {
+      "brand": "retouch",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "shirt",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "S",
+      "secondSize": "M",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T03:03:07.694Z",
+    "url": "https://re-touch.tokyo/products/open-collar-shirts-dark-gray?vs-test",
+    "store": "re-touch.tokyo",
+    "extProductId": "open-collar-shirts-dark-gray",
+    "payload": {
+      "brand": "retouch",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "shirt",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "S",
+      "secondSize": "M",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T03:03:23.149Z",
+    "url": "https://re-touch.tokyo/products/dry-s-s-tee?vs-test",
+    "store": "re-touch.tokyo",
+    "extProductId": "dry-s-s-tee",
+    "payload": {
+      "brand": "retouch",
+      "fit": "tight",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "t_shirt",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "S",
+      "secondSize": "M",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T03:03:41.465Z",
+    "url": "https://re-touch.tokyo/products/dry-shorts-black?vs-test",
+    "store": "re-touch.tokyo",
+    "extProductId": "dry-shorts-black",
+    "payload": {
+      "brand": "retouch",
+      "fit": "regular",
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "shorts",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "M",
+      "secondSize": "L",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T03:03:54.995Z",
+    "url": "https://re-touch.tokyo/products/dry-shorts-ice-gray?vs-test",
+    "store": "re-touch.tokyo",
+    "extProductId": "dry-shorts-ice-gray",
+    "payload": {
+      "brand": "retouch",
+      "fit": "regular",
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "shorts",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "M",
+      "secondSize": "L",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T03:04:20.271Z",
+    "url": "https://re-touch.tokyo/products/nylon-cargo-shots?vs-test",
+    "store": "re-touch.tokyo",
+    "extProductId": "nylon-cargo-shots",
+    "payload": {
+      "brand": "retouch",
+      "fit": "regular",
+      "sizes": [
+        "M",
+        "L"
+      ],
+      "product_type": "shorts",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "M",
+      "secondSize": "L",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T03:04:46.090Z",
+    "url": "https://re-touch.tokyo/products/l-s-tee-flow-black?vs-test",
+    "store": "re-touch.tokyo",
+    "extProductId": "l-s-tee-flow-black",
+    "payload": {
+      "brand": "retouch",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "t_shirt",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "S",
+      "secondSize": "M",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T03:04:58.961Z",
+    "url": "https://re-touch.tokyo/products/logo-track-jacket?vs-test",
+    "store": "re-touch.tokyo",
+    "extProductId": "logo-track-jacket",
+    "payload": {
+      "brand": "retouch",
+      "fit": "regular",
+      "sizes": [
+        "M-",
+        "L-"
+      ],
+      "product_type": "jacket",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "M-",
+      "secondSize": "L-",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T03:05:22.836Z",
+    "url": "https://re-touch.tokyo/products/easy-tailored-jacket?vs-test",
+    "store": "re-touch.tokyo",
+    "extProductId": "easy-tailored-jacket",
+    "payload": {
+      "brand": "retouch",
+      "fit": "regular",
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "jacket",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "M",
+      "secondSize": "L",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T03:05:35.241Z",
+    "url": "https://re-touch.tokyo/products/easy-slacks?vs-test",
+    "store": "re-touch.tokyo",
+    "extProductId": "easy-slacks",
+    "payload": {
+      "brand": "retouch",
+      "fit": "wide",
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "pants",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "M",
+      "secondSize": "L",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T03:05:48.696Z",
+    "url": "https://re-touch.tokyo/products/l-s-tee-moire-black?vs-test",
+    "store": "re-touch.tokyo",
+    "extProductId": "l-s-tee-moire-black",
+    "payload": {
+      "brand": "retouch",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "t_shirt",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "S",
+      "secondSize": "M",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T03:06:00.377Z",
+    "url": "https://re-touch.tokyo/products/l-s-tee-moire-white?vs-test",
+    "store": "re-touch.tokyo",
+    "extProductId": "l-s-tee-moire-white",
+    "payload": {
+      "brand": "retouch",
+      "fit": "tight",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "t_shirt",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "S",
+      "secondSize": "M",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T03:06:13.261Z",
+    "url": "https://re-touch.tokyo/products/l-s-tee-helix-black?vs-test",
+    "store": "re-touch.tokyo",
+    "extProductId": "l-s-tee-helix-black",
+    "payload": {
+      "brand": "retouch",
+      "fit": "tight",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "t_shirt",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "S",
+      "secondSize": "M",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T03:06:26.168Z",
+    "url": "https://re-touch.tokyo/products/l-s-tee-helix-white?vs-test",
+    "store": "re-touch.tokyo",
+    "extProductId": "l-s-tee-helix-white",
+    "payload": {
+      "brand": "retouch",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "t_shirt",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "S",
+      "secondSize": "M",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T03:06:39.662Z",
+    "url": "https://re-touch.tokyo/products/nylon-track-blouson?vs-test",
+    "store": "re-touch.tokyo",
+    "extProductId": "nylon-track-blouson",
+    "payload": {
+      "brand": "retouch",
+      "fit": "regular",
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "jacket",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "M",
+      "secondSize": "L",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T03:07:03.490Z",
+    "url": "https://re-touch.tokyo/products/ls-tee-pixel-black?vs-test",
+    "store": "re-touch.tokyo",
+    "extProductId": "ls-tee-pixel-black",
+    "payload": {
+      "brand": "retouch",
+      "fit": "tight",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "t_shirt",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "S",
+      "secondSize": "M",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T03:07:29.256Z",
+    "url": "https://re-touch.tokyo/products/logo-pullover-hoodie-black?vs-test",
+    "store": "re-touch.tokyo",
+    "extProductId": "logo-pullover-hoodie-black",
+    "payload": {
+      "brand": "retouch",
+      "fit": "regular",
+      "sizes": [
+        "M",
+        "L"
+      ],
+      "product_type": "sweater",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "M",
+      "secondSize": "L",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T03:07:57.367Z",
+    "url": "https://re-touch.tokyo/products/logo-pullover-hoodie-greige?vs-test",
+    "store": "re-touch.tokyo",
+    "extProductId": "logo-pullover-hoodie-greige",
+    "payload": {
+      "brand": "retouch",
+      "fit": "regular",
+      "sizes": [
+        "M",
+        "L"
+      ],
+      "product_type": "sweater",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "M",
+      "secondSize": "L",
+      "scenario": "general_medians",
+      "willFit": true
+    }
   }
 ]
