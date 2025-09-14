@@ -13,23 +13,25 @@
     }
     table { border-collapse: collapse; width: 100%; }
     th, td { border: 1px solid #ccc; padding: 6px 10px; font-size: 14px; }
-    th { 
-      background: #f4f4f4; 
-      position: sticky; 
-      top: 0; 
-      z-index: 2; 
-    }
+    th { background: #f4f4f4; position: sticky; top: 0; z-index: 2; }
     td { vertical-align: top; }
-    button, input { margin: 5px 5px 15px 0; padding: 8px 12px; font-size: 14px; }
-    input { border: 1px solid #ccc; }
+    button, input, textarea { margin: 5px 5px 15px 0; padding: 8px 12px; font-size: 14px; }
+    input, textarea { border: 1px solid #ccc; }
+    textarea { width: 100%; height: 100px; }
   </style>
 </head>
 <body>
   <h1>Virtusize Item Responses</h1>
-  
+
   <input type="text" id="brandFilter" placeholder="🔍 Filter by brand..." onkeyup="filterByBrand()">
   <button onclick="exportTableToCSV()">⬇️ Export to CSV</button>
-  
+
+  <!-- ✅ New URL input area -->
+  <h3>Paste Product URLs to Crawl</h3>
+  <textarea id="urlList" placeholder="Paste one URL per line..."></textarea><br>
+  <button onclick="saveUrls()">💾 Save URLs</button>
+  <pre id="savedUrls"></pre>
+
   <div class="table-container">
     <table id="responsesTable">
       <thead>
@@ -2045,6 +2047,22 @@
 
       const today = new Date().toISOString().split("T")[0];
       downloadCSV(csv.join("\n"), "itemResponses-" + today + ".csv");
+    }
+
+    // ✅ URL Save/Load
+    function saveUrls() {
+      const text = document.getElementById("urlList").value.trim();
+      const urls = text.split(/\n+/).map(u => u.trim()).filter(u => u);
+      document.getElementById("savedUrls").innerText = urls.join("\n");
+      localStorage.setItem("urlList", JSON.stringify(urls));
+    }
+
+    window.onload = function() {
+      const saved = JSON.parse(localStorage.getItem("urlList") || "[]");
+      if (saved.length > 0) {
+        document.getElementById("urlList").value = saved.join("\n");
+        document.getElementById("savedUrls").innerText = saved.join("\n");
+      }
     }
   </script>
 </body>
