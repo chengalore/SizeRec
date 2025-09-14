@@ -1,6 +1,0 @@
-2025/09/14-12:06:26.028 11888e Reusing MANIFEST /Users/rachel/Documents/sizeRec/PuppeteerProfile/Default/Local Storage/leveldb/MANIFEST-000001
-2025/09/14-12:06:26.030 11888e Recovering log #155
-2025/09/14-12:06:26.030 11888e Reusing old log /Users/rachel/Documents/sizeRec/PuppeteerProfile/Default/Local Storage/leveldb/000155.log 
-2025/09/14-12:09:44.009 118891 Level-0 table #159: started
-2025/09/14-12:09:44.013 118891 Level-0 table #159: 13279 bytes OK
-2025/09/14-12:09:44.024 118891 Delete type=0 #155
