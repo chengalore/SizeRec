@@ -86,64 +86,51 @@ results.forEach(r => {
 });
 
 html += `
-      </tbody>
-    </table>
   </div>
 
+  <h2>Paste Product URLs</h2>
+  <textarea id="urlInput" rows="3" style="width:100%; max-width:600px;" placeholder="Paste product URLs here..."></textarea><br>
+  <button onclick="saveUrls()">💾 Save URLs</button>
+  <button onclick="exportAsStoreLinksJS()">⬇️ Export storeLinks.js</button>
+
   <script>
-    function filterByBrand() {
-      const input = document.getElementById("brandFilter").value.toLowerCase();
-      const rows = document.querySelectorAll("#responsesTable tbody tr");
+    function saveUrls() {
+      const input = document.getElementById("urlInput").value.trim();
+      if (!input) return;
 
-      rows.forEach(row => {
-        const brand = row.cells[2].innerText.toLowerCase(); // 3rd column = Brand
-        row.style.display = brand.includes(input) ? "" : "none";
-      });
-    }
-
-    function downloadCSV(csv, filename) {
-      const csvFile = new Blob([csv], { type: "text/csv;charset=utf-8;" });
-      const downloadLink = document.createElement("a");
-      downloadLink.download = filename;
-      downloadLink.href = URL.createObjectURL(csvFile);
-      downloadLink.style.display = "none";
-      document.body.appendChild(downloadLink);
-      downloadLink.click();
-      document.body.removeChild(downloadLink);
-    }
-
-    function exportTableToCSV() {
-      const rows = document.querySelectorAll("#responsesTable tr");
-      let csv = [];
-
-      rows.forEach(row => {
-        if (row.style.display === "none") return; // Skip hidden rows (filtered out)
-        
-        const cols = row.querySelectorAll("td, th");
-        const rowData = [];
-
-        cols.forEach(col => {
-          let text = "";
-          const link = col.querySelector("a");
-          if (link) {
-            text = link.href;
-          } else {
-            text = col.innerText;
-          }
-          text = text.replace(/"/g, '""').replace(/\\r?\\n|\\r/g, " ");
-          rowData.push('"' + text + '"');
-        });
-
-        csv.push(rowData.join(","));
+      let saved = JSON.parse(localStorage.getItem("savedLinks") || "[]");
+      input.split("\\n").forEach(url => {
+        if (url && !saved.includes(url)) saved.push(url.trim());
       });
 
-      const today = new Date().toISOString().split("T")[0];
-      downloadCSV(csv.join("\\n"), "itemResponses-" + today + ".csv");
+      localStorage.setItem("savedLinks", JSON.stringify(saved));
+      alert("✅ URLs saved to localStorage!");
+      document.getElementById("urlInput").value = "";
+    }
+
+    function exportAsStoreLinksJS() {
+      const urls = JSON.parse(localStorage.getItem("savedLinks") || "[]");
+      if (!urls.length) {
+        alert("⚠️ No URLs saved yet.");
+        return;
+      }
+
+      const jsContent = \`// storeLinks.js
+export default [
+  \${urls.map(u => \`"\${u}"\`).join(",\\n  ")}
+];\`;
+
+      const blob = new Blob([jsContent], { type: "text/javascript" });
+      const link = document.createElement("a");
+      link.href = URL.createObjectURL(blob);
+      link.download = "storeLinks.js";
+      link.click();
     }
   </script>
 </body>
 </html>
 `;
+
 
 // Save as HTML
 fs.writeFileSync("itemResponses.html", html);

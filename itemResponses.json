@@ -2732,5 +2732,2708 @@
       "scenario": "brand_medians",
       "willFit": true
     }
+  },
+  {
+    "timestamp": "2025-09-14T06:09:28.609Z",
+    "url": "https://store.tomorrowland.co.jp/item/james-perse/16035403610.html?color_id=12",
+    "store": "store.tomorrowland.co.jp",
+    "extProductId": "16035403610",
+    "payload": {
+      "brand": "james perse",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M"
+      ],
+      "product_type": "t_shirt",
+      "user_gender": "female",
+      "user_height": 1610,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "(S)",
+      "secondSize": "(M)",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:09:43.925Z",
+    "url": "https://store.tomorrowland.co.jp/item/ballsey/11031403101.html?color_id=77",
+    "store": "store.tomorrowland.co.jp",
+    "extProductId": "11031403101",
+    "payload": {
+      "brand": "ballsey",
+      "fit": "regular",
+      "sizes": [
+        "ONE"
+      ],
+      "product_type": "t_shirt",
+      "user_gender": "female",
+      "user_height": 1610,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "ONE SIZE",
+      "secondSize": "",
+      "scenario": "model",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:09:57.889Z",
+    "url": "https://levi.jp/products/a59290006",
+    "store": "levi.jp",
+    "extProductId": "A59290006",
+    "payload": {
+      "brand": "levi's",
+      "fit": "wide",
+      "sizes": [
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28"
+      ],
+      "product_type": "pants",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "W27L29インチ",
+      "secondSize": "W26L29インチ",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:10:14.762Z",
+    "url": "https://levi.jp/products/a59290002",
+    "store": "levi.jp",
+    "extProductId": "A59290002",
+    "payload": {
+      "brand": "levi's",
+      "fit": "wide",
+      "sizes": [
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28"
+      ],
+      "product_type": "pants",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "W26L29インチ",
+      "secondSize": "W27L29インチ",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:10:28.344Z",
+    "url": "https://levi.jp/products/375010015",
+    "store": "levi.jp",
+    "extProductId": "375010015",
+    "payload": {
+      "brand": "levi's",
+      "fit": "slim",
+      "sizes": [
+        "28W34L",
+        "29W34L",
+        "30W34L",
+        "31W34L",
+        "32W34L",
+        "33W34L",
+        "34W34L",
+        "36W34L",
+        "38W34L"
+      ],
+      "product_type": "pants",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "W32L34インチ",
+      "secondSize": "W33L34インチ",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:11:10.672Z",
+    "url": "https://levi.jp/products/005m30001",
+    "store": "levi.jp",
+    "extProductId": "005M30001",
+    "payload": {
+      "brand": "levi's",
+      "fit": "loose",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "shirt",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "M",
+      "secondSize": "L",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:11:23.975Z",
+    "url": "https://levi.jp/products/004ey0002",
+    "store": "levi.jp",
+    "extProductId": "004EY0002",
+    "payload": {
+      "brand": "levi's",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "M",
+      "secondSize": "L",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:11:39.434Z",
+    "url": "https://levi.jp/products/004ey0003",
+    "store": "levi.jp",
+    "extProductId": "004EY0003",
+    "payload": {
+      "brand": "levi's",
+      "fit": "loose",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "M",
+      "secondSize": "L",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:11:55.076Z",
+    "url": "https://levi.jp/products/a43200019",
+    "store": "levi.jp",
+    "extProductId": "A43200019",
+    "payload": {
+      "brand": "levi's",
+      "fit": "tight",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "sweater",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "L",
+      "secondSize": "XL",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:12:10.678Z",
+    "url": "https://levi.jp/products/a19190061",
+    "store": "levi.jp",
+    "extProductId": "A19190061",
+    "payload": {
+      "brand": "levi's",
+      "fit": "tight",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "shirt",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "L",
+      "secondSize": "M",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:12:25.923Z",
+    "url": "https://levi.jp/products/003o20005",
+    "store": "levi.jp",
+    "extProductId": "003O20005",
+    "payload": {
+      "brand": "levi's",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "shirt",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "L",
+      "secondSize": "M",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:12:41.530Z",
+    "url": "https://levi.jp/products/001li0002",
+    "store": "levi.jp",
+    "extProductId": "001LI0002",
+    "payload": {
+      "brand": "levi's",
+      "fit": "loose",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "jacket",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "M",
+      "secondSize": "L",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:12:57.049Z",
+    "url": "https://levi.jp/products/219310051",
+    "store": "levi.jp",
+    "extProductId": "219310051",
+    "payload": {
+      "brand": "levi's",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "sweater",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "L",
+      "secondSize": "M",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:13:12.634Z",
+    "url": "https://levi.jp/products/219310038",
+    "store": "levi.jp",
+    "extProductId": "219310038",
+    "payload": {
+      "brand": "levi's",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "sweater",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "L",
+      "secondSize": "M",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:13:27.913Z",
+    "url": "https://levi.jp/products/a32220017",
+    "store": "levi.jp",
+    "extProductId": "A32220017",
+    "payload": {
+      "brand": "levi's",
+      "fit": "tight",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "sweater",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "M",
+      "secondSize": "L",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:13:42.855Z",
+    "url": "https://levi.jp/products/a32220015",
+    "store": "levi.jp",
+    "extProductId": "A32220015",
+    "payload": {
+      "brand": "levi's",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "sweater",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "M",
+      "secondSize": "L",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:13:58.774Z",
+    "url": "https://levi.jp/products/857450002",
+    "store": "levi.jp",
+    "extProductId": "857450002",
+    "payload": {
+      "brand": "levi's",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "shirt",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "M",
+      "secondSize": "L",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:14:14.046Z",
+    "url": "https://levi.jp/products/195730281",
+    "store": "levi.jp",
+    "extProductId": "195730281",
+    "payload": {
+      "brand": "levi's",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "shirt",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "L",
+      "secondSize": "M",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:14:28.829Z",
+    "url": "https://levi.jp/products/006if0001",
+    "store": "levi.jp",
+    "extProductId": "006IF0001",
+    "payload": {
+      "brand": "levi's",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "L",
+      "secondSize": "M",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:14:44.318Z",
+    "url": "https://levi.jp/products/0022z0000",
+    "store": "levi.jp",
+    "extProductId": "0022Z0000",
+    "payload": {
+      "brand": "levi's",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "L",
+      "secondSize": "M",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:15:00.082Z",
+    "url": "https://levi.jp/products/000h00013",
+    "store": "levi.jp",
+    "extProductId": "000H00013",
+    "payload": {
+      "brand": "levi's",
+      "fit": "regular",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "L",
+      "secondSize": "M",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:15:15.722Z",
+    "url": "https://levi.jp/products/000h00012",
+    "store": "levi.jp",
+    "extProductId": "000H00012",
+    "payload": {
+      "brand": "levi's",
+      "fit": "regular",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "L",
+      "secondSize": "M",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:15:33.246Z",
+    "url": "https://levi.jp/products/a61450087",
+    "store": "levi.jp",
+    "extProductId": "A61450087",
+    "payload": {
+      "brand": "levi's",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "M",
+      "secondSize": "L",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:15:44.044Z",
+    "url": "https://levi.jp/products/004gc0000",
+    "store": "levi.jp",
+    "extProductId": "004GC0000",
+    "payload": {
+      "brand": "levi's",
+      "fit": "loose",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "shirt",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "M",
+      "secondSize": "L",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:15:59.584Z",
+    "url": "https://levi.jp/products/003rk0001",
+    "store": "levi.jp",
+    "extProductId": "003RK0001",
+    "payload": {
+      "brand": "levi's",
+      "fit": "loose",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "jacket",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "L",
+      "secondSize": "M",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:16:14.989Z",
+    "url": "https://levi.jp/products/a58500025",
+    "store": "levi.jp",
+    "extProductId": "A58500025",
+    "payload": {
+      "brand": "levi's",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "M",
+      "secondSize": "L",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:16:28.786Z",
+    "url": "https://levi.jp/products/003o20004",
+    "store": "levi.jp",
+    "extProductId": "003O20004",
+    "payload": {
+      "brand": "levi's",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "shirt",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "M",
+      "secondSize": "L",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:16:44.726Z",
+    "url": "https://levi.jp/products/a58500018",
+    "store": "levi.jp",
+    "extProductId": "A58500018",
+    "payload": {
+      "brand": "levi's",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "M",
+      "secondSize": "L",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:16:58.137Z",
+    "url": "https://levi.jp/products/003o20002",
+    "store": "levi.jp",
+    "extProductId": "003O20002",
+    "payload": {
+      "brand": "levi's",
+      "fit": "tight",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "shirt",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "M",
+      "secondSize": "L",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:17:12.936Z",
+    "url": "https://levi.jp/products/001lj0002",
+    "store": "levi.jp",
+    "extProductId": "001LJ0002",
+    "payload": {
+      "brand": "levi's",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "L",
+      "secondSize": "M",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:17:29.121Z",
+    "url": "https://levi.jp/products/a72070027",
+    "store": "levi.jp",
+    "extProductId": "A72070027",
+    "payload": {
+      "brand": "levi's",
+      "fit": "tight",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "sweater",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "L",
+      "secondSize": "XL",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:17:41.817Z",
+    "url": "https://levi.jp/products/a72100045",
+    "store": "levi.jp",
+    "extProductId": "A72100045",
+    "payload": {
+      "brand": "levi's",
+      "fit": "loose",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "jacket",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "M",
+      "secondSize": "L",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:17:59.403Z",
+    "url": "https://levi.jp/products/195730288",
+    "store": "levi.jp",
+    "extProductId": "195730288",
+    "payload": {
+      "brand": "levi's",
+      "fit": "loose",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "shirt",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "L",
+      "secondSize": "M",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:18:10.742Z",
+    "url": "https://levi.jp/products/a72100041",
+    "store": "levi.jp",
+    "extProductId": "A72100041",
+    "payload": {
+      "brand": "levi's",
+      "fit": "tight",
+      "sizes": [
+        "S",
+        "L",
+        "XL",
+        "M"
+      ],
+      "product_type": "shirt",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "L",
+      "secondSize": "M",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:18:26.527Z",
+    "url": "https://levi.jp/products/a72100000",
+    "store": "levi.jp",
+    "extProductId": "A72100000",
+    "payload": {
+      "brand": "levi's",
+      "fit": "tight",
+      "sizes": [
+        "S",
+        "L",
+        "XL",
+        "M"
+      ],
+      "product_type": "shirt",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "L",
+      "secondSize": "M",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:18:38.646Z",
+    "url": "https://levi.jp/products/006if0000",
+    "store": "levi.jp",
+    "extProductId": "006IF0000",
+    "payload": {
+      "brand": "levi's",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "L",
+      "secondSize": "M",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:18:54.084Z",
+    "url": "https://levi.jp/products/000h00014",
+    "store": "levi.jp",
+    "extProductId": "000H00014",
+    "payload": {
+      "brand": "levi's",
+      "fit": "regular",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "L",
+      "secondSize": "M",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:19:09.511Z",
+    "url": "https://levi.jp/products/000h00010",
+    "store": "levi.jp",
+    "extProductId": "000H00010",
+    "payload": {
+      "brand": "levi's",
+      "fit": "regular",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "L",
+      "secondSize": "M",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:19:28.172Z",
+    "url": "https://levi.jp/products/a61450084",
+    "store": "levi.jp",
+    "extProductId": "A61450084",
+    "payload": {
+      "brand": "levi's",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "M",
+      "secondSize": "L",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:19:44.021Z",
+    "url": "https://levi.jp/products/387120454",
+    "store": "levi.jp",
+    "extProductId": "387120454",
+    "payload": {
+      "brand": "levi's",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "sweater",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "M",
+      "secondSize": "L",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:19:59.208Z",
+    "url": "https://levi.jp/products/161431816",
+    "store": "levi.jp",
+    "extProductId": "161431816",
+    "payload": {
+      "brand": "levi's",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "L",
+      "secondSize": "M",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:20:14.792Z",
+    "url": "https://levi.jp/products/873730360",
+    "store": "levi.jp",
+    "extProductId": "873730360",
+    "payload": {
+      "brand": "levi's",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "L",
+      "secondSize": "M",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:20:28.122Z",
+    "url": "https://levi.jp/products/a19190068",
+    "store": "levi.jp",
+    "extProductId": "A19190068",
+    "payload": {
+      "brand": "levi's",
+      "fit": "tight",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "shirt",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "L",
+      "secondSize": "M",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:20:45.608Z",
+    "url": "https://levi.jp/products/003rk0000",
+    "store": "levi.jp",
+    "extProductId": "003RK0000",
+    "payload": {
+      "brand": "levi's",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "jacket",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "L",
+      "secondSize": "M",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:20:57.336Z",
+    "url": "https://levi.jp/products/387120410",
+    "store": "levi.jp",
+    "extProductId": "387120410",
+    "payload": {
+      "brand": "levi's",
+      "fit": "tight",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "sweater",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "L",
+      "secondSize": "M",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:21:13.463Z",
+    "url": "https://levi.jp/products/003rj0000",
+    "store": "levi.jp",
+    "extProductId": "003RJ0000",
+    "payload": {
+      "brand": "levi's",
+      "fit": "tight",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "sweater",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "L",
+      "secondSize": "M",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:21:26.100Z",
+    "url": "https://levi.jp/products/003r50001",
+    "store": "levi.jp",
+    "extProductId": "003R50001",
+    "payload": {
+      "brand": "levi's",
+      "fit": "tight",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "L",
+      "secondSize": "XL",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:21:39.250Z",
+    "url": "https://levi.jp/products/003xm0000",
+    "store": "levi.jp",
+    "extProductId": "003XM0000",
+    "payload": {
+      "brand": "levi's",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "M",
+      "secondSize": "L",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:21:54.665Z",
+    "url": "https://levi.jp/products/003xl0000",
+    "store": "levi.jp",
+    "extProductId": "003XL0000",
+    "payload": {
+      "brand": "levi's",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "M",
+      "secondSize": "L",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:22:10.139Z",
+    "url": "https://levi.jp/products/a61450086",
+    "store": "levi.jp",
+    "extProductId": "A61450086",
+    "payload": {
+      "brand": "levi's",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "L",
+      "secondSize": "M",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:22:23.541Z",
+    "url": "https://levi.jp/products/a58500019",
+    "store": "levi.jp",
+    "extProductId": "A58500019",
+    "payload": {
+      "brand": "levi's",
+      "fit": "loose",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "M",
+      "secondSize": "L",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:22:38.366Z",
+    "url": "https://levi.jp/products/003o20000",
+    "store": "levi.jp",
+    "extProductId": "003O20000",
+    "payload": {
+      "brand": "levi's",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "shirt",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "L",
+      "secondSize": "M",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:22:53.740Z",
+    "url": "https://levi.jp/products/387120383",
+    "store": "levi.jp",
+    "extProductId": "387120383",
+    "payload": {
+      "brand": "levi's",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "sweater",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "L",
+      "secondSize": "M",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:23:08.927Z",
+    "url": "https://levi.jp/products/003r10001",
+    "store": "levi.jp",
+    "extProductId": "003R10001",
+    "payload": {
+      "brand": "levi's",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "sweater",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "M",
+      "secondSize": "L",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:23:23.948Z",
+    "url": "https://levi.jp/products/a61450081",
+    "store": "levi.jp",
+    "extProductId": "A61450081",
+    "payload": {
+      "brand": "levi's",
+      "fit": "loose",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "L",
+      "secondSize": "M",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:23:39.323Z",
+    "url": "https://levi.jp/products/003qw0001",
+    "store": "levi.jp",
+    "extProductId": "003QW0001",
+    "payload": {
+      "brand": "levi's",
+      "fit": "tight",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "sweater",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "M",
+      "secondSize": "L",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:24:07.093Z",
+    "url": "https://levi.jp/products/387120384",
+    "store": "levi.jp",
+    "extProductId": "387120384",
+    "payload": {
+      "brand": "levi's",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "sweater",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "L",
+      "secondSize": "M",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:24:22.457Z",
+    "url": "https://levi.jp/products/003ns0002",
+    "store": "levi.jp",
+    "extProductId": "003NS0002",
+    "payload": {
+      "brand": "levi's",
+      "fit": "tight",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "shirt",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "L",
+      "secondSize": "M",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:24:49.570Z",
+    "url": "https://levi.jp/products/a48450034",
+    "store": "levi.jp",
+    "extProductId": "A48450034",
+    "payload": {
+      "brand": "levi's",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "shirt",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "L",
+      "secondSize": "M",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:25:04.561Z",
+    "url": "https://levi.jp/products/a19190069",
+    "store": "levi.jp",
+    "extProductId": "A19190069",
+    "payload": {
+      "brand": "levi's",
+      "fit": "loose",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "shirt",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "L",
+      "secondSize": "M",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:25:21.603Z",
+    "url": "https://levi.jp/products/001lh0001",
+    "store": "levi.jp",
+    "extProductId": "001LH0001",
+    "payload": {
+      "brand": "levi's",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "shirt",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "L",
+      "secondSize": "M",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:25:33.058Z",
+    "url": "https://levi.jp/products/001lj0003",
+    "store": "levi.jp",
+    "extProductId": "001LJ0003",
+    "payload": {
+      "brand": "levi's",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "M",
+      "secondSize": "L",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:25:47.646Z",
+    "url": "https://levi.jp/products/a72100042",
+    "store": "levi.jp",
+    "extProductId": "A72100042",
+    "payload": {
+      "brand": "levi's",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "L",
+        "XL",
+        "M"
+      ],
+      "product_type": "shirt",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "M",
+      "secondSize": "L",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:26:03.962Z",
+    "url": "https://levi.jp/products/a72100052",
+    "store": "levi.jp",
+    "extProductId": "A72100052",
+    "payload": {
+      "brand": "levi's",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "jacket",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "L",
+      "secondSize": "M",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:26:19.248Z",
+    "url": "https://levi.jp/products/003r50000",
+    "store": "levi.jp",
+    "extProductId": "003R50000",
+    "payload": {
+      "brand": "levi's",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "L",
+      "secondSize": "XL",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:26:33.885Z",
+    "url": "https://levi.jp/products/161432052",
+    "store": "levi.jp",
+    "extProductId": "161432052",
+    "payload": {
+      "brand": "levi's",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "L",
+      "secondSize": "M",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:26:48.579Z",
+    "url": "https://levi.jp/products/161431800",
+    "store": "levi.jp",
+    "extProductId": "161431800",
+    "payload": {
+      "brand": "levi's",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "L",
+      "secondSize": "XL",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:27:04.125Z",
+    "url": "https://levi.jp/products/161432051",
+    "store": "levi.jp",
+    "extProductId": "161432051",
+    "payload": {
+      "brand": "levi's",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "L",
+      "secondSize": "M",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:27:31.987Z",
+    "url": "https://levi.jp/products/857450074",
+    "store": "levi.jp",
+    "extProductId": "857450074",
+    "payload": {
+      "brand": "levi's",
+      "fit": "tight",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "shirt",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "L",
+      "secondSize": "M",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:27:47.031Z",
+    "url": "https://levi.jp/products/a06370173",
+    "store": "levi.jp",
+    "extProductId": "A06370173",
+    "payload": {
+      "brand": "levi's",
+      "fit": "regular",
+      "sizes": [
+        "XL"
+      ],
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "XL",
+      "secondSize": "",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:28:02.693Z",
+    "url": "https://levi.jp/products/a06370159",
+    "store": "levi.jp",
+    "extProductId": "A06370159",
+    "payload": {
+      "brand": "levi's",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "L",
+      "secondSize": "M",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:28:30.075Z",
+    "url": "https://levi.jp/products/161432056",
+    "store": "levi.jp",
+    "extProductId": "161432056",
+    "payload": {
+      "brand": "levi's",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "L",
+      "secondSize": "M",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:28:45.915Z",
+    "url": "https://levi.jp/products/0049f0003",
+    "store": "levi.jp",
+    "extProductId": "0049F0003",
+    "payload": {
+      "brand": "levi's",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "M",
+      "secondSize": "L",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:29:02.422Z",
+    "url": "https://levi.jp/products/873730225",
+    "store": "levi.jp",
+    "extProductId": "873730225",
+    "payload": {
+      "brand": "levi's",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "L",
+      "secondSize": "M",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:29:29.939Z",
+    "url": "https://levi.jp/products/0049f0004",
+    "store": "levi.jp",
+    "extProductId": "0049F0004",
+    "payload": {
+      "brand": "levi's",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "M",
+      "secondSize": "L",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:29:43.826Z",
+    "url": "https://levi.jp/products/004gc0002",
+    "store": "levi.jp",
+    "extProductId": "004GC0002",
+    "payload": {
+      "brand": "levi's",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "shirt",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "M",
+      "secondSize": "S",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:29:59.432Z",
+    "url": "https://levi.jp/products/003qv0001",
+    "store": "levi.jp",
+    "extProductId": "003QV0001",
+    "payload": {
+      "brand": "levi's",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "M",
+      "secondSize": "L",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:30:10.055Z",
+    "url": "https://levi.jp/products/a95120001",
+    "store": "levi.jp",
+    "extProductId": "A95120001",
+    "payload": {
+      "brand": "levi's",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "L",
+      "secondSize": "XL",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:30:23.191Z",
+    "url": "https://levi.jp/products/a95120000",
+    "store": "levi.jp",
+    "extProductId": "A95120000",
+    "payload": {
+      "brand": "levi's",
+      "fit": "tight",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "L",
+      "secondSize": "XL",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:30:38.838Z",
+    "url": "https://levi.jp/products/a83090000",
+    "store": "levi.jp",
+    "extProductId": "A83090000",
+    "payload": {
+      "brand": "levi's",
+      "fit": "tight",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "top",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "L",
+      "secondSize": "M",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:30:54.819Z",
+    "url": "https://levi.jp/products/000h00028",
+    "store": "levi.jp",
+    "extProductId": "000H00028",
+    "payload": {
+      "brand": "levi's",
+      "fit": "regular",
+      "sizes": [],
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "M",
+      "secondSize": "L",
+      "scenario": "brand_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:31:09.932Z",
+    "url": "https://levi.jp/products/000h00026",
+    "store": "levi.jp",
+    "extProductId": "000H00026",
+    "payload": {
+      "brand": "levi's",
+      "fit": "loose",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "M",
+      "secondSize": "L",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:31:25.749Z",
+    "url": "https://levi.jp/products/000vn0000",
+    "store": "levi.jp",
+    "extProductId": "000VN0000",
+    "payload": {
+      "brand": "levi's",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "M",
+      "secondSize": "L",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:31:39.021Z",
+    "url": "https://levi.jp/products/000vm0000",
+    "store": "levi.jp",
+    "extProductId": "000VM0000",
+    "payload": {
+      "brand": "levi's",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "sweater",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "L",
+      "secondSize": "M",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:31:54.653Z",
+    "url": "https://levi.jp/products/0023a0000",
+    "store": "levi.jp",
+    "extProductId": "0023A0000",
+    "payload": {
+      "brand": "levi's",
+      "fit": "tight",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "L",
+      "secondSize": "M",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:32:25.793Z",
+    "url": "https://levi.jp/products/a92440001",
+    "store": "levi.jp",
+    "extProductId": "A92440001",
+    "payload": {
+      "brand": "levi's",
+      "fit": "tight",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "sweater",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "L",
+      "secondSize": "M",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:32:43.257Z",
+    "url": "https://levi.jp/products/a84350008",
+    "store": "levi.jp",
+    "extProductId": "A84350008",
+    "payload": {
+      "brand": "levi's",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "sweater",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "L",
+      "secondSize": "M",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:32:59.861Z",
+    "url": "https://levi.jp/products/a72100025",
+    "store": "levi.jp",
+    "extProductId": "A72100025",
+    "payload": {
+      "brand": "levi's",
+      "fit": "tight",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "shirt",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "L",
+      "secondSize": "M",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:33:13.459Z",
+    "url": "https://levi.jp/products/a84350020",
+    "store": "levi.jp",
+    "extProductId": "A84350020",
+    "payload": {
+      "brand": "levi's",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "XL"
+      ],
+      "product_type": "sweater",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "S",
+      "secondSize": "XL",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:33:29.648Z",
+    "url": "https://levi.jp/products/a06370000",
+    "store": "levi.jp",
+    "extProductId": "A06370000",
+    "payload": {
+      "brand": "levi's",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "L",
+      "secondSize": "M",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:33:45.570Z",
+    "url": "https://levi.jp/products/219310049",
+    "store": "levi.jp",
+    "extProductId": "219310049",
+    "payload": {
+      "brand": "levi's",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "sweater",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "L",
+      "secondSize": "M",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:34:01.929Z",
+    "url": "https://levi.jp/products/219310000",
+    "store": "levi.jp",
+    "extProductId": "219310000",
+    "payload": {
+      "brand": "levi's",
+      "fit": "tight",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "sweater",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "L",
+      "secondSize": "XL",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:34:16.239Z",
+    "url": "https://levi.jp/products/001li0001",
+    "store": "levi.jp",
+    "extProductId": "001LI0001",
+    "payload": {
+      "brand": "levi's",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "L",
+        "XL",
+        "M"
+      ],
+      "product_type": "shirt",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "M",
+      "secondSize": "L",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:34:28.728Z",
+    "url": "https://levi.jp/products/001lh0000",
+    "store": "levi.jp",
+    "extProductId": "001LH0000",
+    "payload": {
+      "brand": "levi's",
+      "fit": "loose",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "shirt",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "M",
+      "secondSize": "L",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:34:46.235Z",
+    "url": "https://levi.jp/products/001li0000",
+    "store": "levi.jp",
+    "extProductId": "001LI0000",
+    "payload": {
+      "brand": "levi's",
+      "fit": "loose",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "shirt",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "M",
+      "secondSize": "L",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:35:02.963Z",
+    "url": "https://levi.jp/products/000h00025",
+    "store": "levi.jp",
+    "extProductId": "000H00025",
+    "payload": {
+      "brand": "levi's",
+      "fit": "regular",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "L",
+      "secondSize": "M",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:35:17.076Z",
+    "url": "https://levi.jp/products/000h00023",
+    "store": "levi.jp",
+    "extProductId": "000H00023",
+    "payload": {
+      "brand": "levi's",
+      "fit": "regular",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "L",
+      "secondSize": "M",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:35:30.755Z",
+    "url": "https://levi.jp/products/0049f0002",
+    "store": "levi.jp",
+    "extProductId": "0049F0002",
+    "payload": {
+      "brand": "levi's",
+      "fit": "loose",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "M",
+      "secondSize": "L",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:35:46.256Z",
+    "url": "https://levi.jp/products/a84350019",
+    "store": "levi.jp",
+    "extProductId": "A84350019",
+    "payload": {
+      "brand": "levi's",
+      "fit": "tight",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "sweater",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "L",
+      "secondSize": "M",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T06:36:04.586Z",
+    "url": "https://levi.jp/products/161431923",
+    "store": "levi.jp",
+    "extProductId": "161431923",
+    "payload": {
+      "brand": "levi's",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1780,
+      "user_weight": 70,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "L",
+      "secondSize": "M",
+      "scenario": "Regression Ease - Item Measurements",
+      "willFit": true
+    }
   }
 ]
