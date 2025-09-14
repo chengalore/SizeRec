@@ -5,7 +5,7 @@ export default [
   "https://levi.jp/products/a59290006",
   "https://levi.jp/products/a59290002",
   "https://levi.jp/products/375010015",
-  "https://levi.jp/products/445010072",c
+  "https://levi.jp/products/445010072",
   "https://levi.jp/products/001l70002",
   "https://levi.jp/products/005m30001",
   "https://levi.jp/products/004ey0002",
