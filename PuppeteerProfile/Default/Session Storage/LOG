@@ -1,24 +1,3 @@
-2025/09/14-10:56:47.202 108089 Reusing MANIFEST /Users/rachel/Documents/sizeRec/PuppeteerProfile/Default/Session Storage/MANIFEST-000001
-2025/09/14-10:56:47.203 108089 Recovering log #190
-2025/09/14-10:56:47.205 108089 Reusing old log /Users/rachel/Documents/sizeRec/PuppeteerProfile/Default/Session Storage/000190.log 
-2025/09/14-10:57:01.980 10808c Level-0 table #194: started
-2025/09/14-10:57:01.984 10808c Level-0 table #194: 11770 bytes OK
-2025/09/14-10:57:01.988 10808c Delete type=0 #190
-2025/09/14-11:00:53.551 10808c Level-0 table #196: started
-2025/09/14-11:00:53.556 10808c Level-0 table #196: 23461 bytes OK
-2025/09/14-11:00:53.560 10808c Delete type=0 #193
-2025/09/14-11:00:53.561 108089 Compacting 4@0 + 1@1 files
-2025/09/14-11:00:53.571 108089 Generated table #197@0: 2863 keys, 57236 bytes
-2025/09/14-11:00:53.571 108089 Compacted 4@0 + 1@1 files => 57236 bytes
-2025/09/14-11:00:53.572 108089 compacted to: files[ 0 1 1 0 0 0 0 ]
-2025/09/14-11:00:53.573 108089 Delete type=2 #189
-2025/09/14-11:00:53.573 108089 Delete type=2 #196
-2025/09/14-11:00:53.573 108089 Delete type=2 #194
-2025/09/14-11:00:53.573 108089 Delete type=2 #191
-2025/09/14-11:00:53.573 108089 Delete type=2 #187
-2025/09/14-11:04:43.182 10808c Level-0 table #199: started
-2025/09/14-11:04:43.186 10808c Level-0 table #199: 21967 bytes OK
-2025/09/14-11:04:43.192 10808c Delete type=0 #195
-2025/09/14-11:08:18.836 10808c Level-0 table #201: started
-2025/09/14-11:08:18.859 10808c Level-0 table #201: 17517 bytes OK
-2025/09/14-11:08:18.862 10808c Delete type=0 #198
+2025/09/14-12:11:00.715 11a146 Reusing MANIFEST /Users/rachel/Documents/sizeRec/PuppeteerProfile/Default/Session Storage/MANIFEST-000001
+2025/09/14-12:11:00.716 11a146 Recovering log #203
+2025/09/14-12:11:00.717 11a146 Reusing old log /Users/rachel/Documents/sizeRec/PuppeteerProfile/Default/Session Storage/000203.log 
