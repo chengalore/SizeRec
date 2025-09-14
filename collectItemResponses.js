@@ -4,7 +4,7 @@ import storeLinks from "./storeLinks.js";
 
 (async () => {
   const browser = await puppeteer.launch({
-    headless: "new", //set to false if to open browser
+    headless: false, //set to false if to open browser
     executablePath: "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
     userDataDir: "/Users/rachel/Documents/sizeRec/PuppeteerProfile",
     defaultViewport: null,

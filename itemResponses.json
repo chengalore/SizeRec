@@ -2658,5 +2658,54 @@
       "scenario": "general_medians",
       "willFit": true
     }
+  },
+  {
+    "timestamp": "2025-09-14T04:14:38.302Z",
+    "url": "https://celford.com/Form/Product/ProductDetail.aspx?shop=0&pid=CWND254022&vid=&bid=CFD01&cid=&_type=&cat=TOE005&swrd=",
+    "store": "celford.com",
+    "extProductId": "CWND254022",
+    "payload": {
+      "brand": "celford",
+      "fit": "regular",
+      "sizes": [
+        "ONE"
+      ],
+      "product_type": "sweater",
+      "user_gender": "female",
+      "user_height": 1660,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "F",
+      "secondSize": "",
+      "scenario": "brand_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-14T04:14:53.179Z",
+    "url": "https://celford.com/Form/Product/ProductDetail.aspx?shop=0&pid=CWND254046&vid=&bid=CFD01&cid=&_type=&cat=TOE001&swrd=",
+    "store": "celford.com",
+    "extProductId": "CWND254046",
+    "payload": {
+      "brand": "celford",
+      "fit": "regular",
+      "sizes": [
+        "36",
+        "38"
+      ],
+      "product_type": "sweater",
+      "user_gender": "female",
+      "user_height": 1660,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "36",
+      "secondSize": "38",
+      "scenario": "brand_medians",
+      "willFit": true
+    }
   }
 ]
