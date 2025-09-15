@@ -76,7 +76,7 @@ import storeLinks from "./storeLinks.js";
     });
 
     try {
-      await page.goto(link, { waitUntil: "networkidle2", timeout: 60000 });
+      await page.goto(link, { waitUntil: "networkidle2", timeout: 40000 });
 
       const widgetButton = await page.$("[data-attribute-id='vs-widget-button']");
       if (widgetButton) {
@@ -84,7 +84,7 @@ import storeLinks from "./storeLinks.js";
         console.log("🖱️ Clicked Virtusize widget");
       }
 
-      await new Promise((resolve) => setTimeout(resolve, 10000));
+      await new Promise((resolve) => setTimeout(resolve, 8000));
     } catch (err) {
       console.error(`⚠ Failed to load ${link}: ${err.message}`);
     } finally {
