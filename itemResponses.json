@@ -7707,5 +7707,859 @@
       "scenario": "general_medians",
       "willFit": true
     }
+  },
+  {
+    "timestamp": "2025-09-15T11:43:52.779Z",
+    "url": "https://www.bymalenebirger.com/dk/en/ready-to-wear/dresses/charmie-maxi-dress/103593050.html?vs-test",
+    "store": "www.bymalenebirger.com",
+    "extProductId": "103593050",
+    "payload": {
+      "brand": "by_malene_birger",
+      "fit": "regular",
+      "sizes": [
+        "32",
+        "34",
+        "36",
+        "38",
+        "40",
+        "42",
+        "44"
+      ],
+      "product_type": "dress_a_line",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "42",
+      "secondSize": "40",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-15T11:44:07.149Z",
+    "url": "https://www.bymalenebirger.com/dk/en/ready-to-wear/tops-blouses/frillio-top/1031075B4.html?vs-test",
+    "store": "www.bymalenebirger.com",
+    "extProductId": "1031075B4",
+    "payload": {
+      "brand": "by_malene_birger",
+      "fit": "tight",
+      "sizes": [
+        "XXS",
+        "XS",
+        "S",
+        "L",
+        "XL",
+        "M"
+      ],
+      "product_type": "top",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "XL",
+      "secondSize": "L",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-15T11:44:20.354Z",
+    "url": "https://www.bymalenebirger.com/dk/en/ready-to-wear/tops-blouses/frillio-top/1031071BM.html?vs-test",
+    "store": "www.bymalenebirger.com",
+    "extProductId": "1031071BM",
+    "payload": {
+      "brand": "by_malene_birger",
+      "fit": "tight",
+      "sizes": [
+        "XXS",
+        "XS",
+        "S",
+        "L",
+        "XL",
+        "M"
+      ],
+      "product_type": "top",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "XL",
+      "secondSize": "L",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-15T11:44:34.687Z",
+    "url": "https://www.bymalenebirger.com/dk/en/ready-to-wear/skirts/elisas-maxi-skirt/1035161BM.html?vs-test",
+    "store": "www.bymalenebirger.com",
+    "extProductId": "1035161BM",
+    "payload": {
+      "brand": "by_malene_birger",
+      "fit": "tight",
+      "sizes": [
+        "32",
+        "34",
+        "36",
+        "38",
+        "40",
+        "42",
+        "44"
+      ],
+      "product_type": "skirt",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "36",
+      "secondSize": "34",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-15T11:44:46.947Z",
+    "url": "https://www.bymalenebirger.com/dk/en/ready-to-wear/knitwear/brie-sweater/1034241K2.html?vs-test",
+    "store": "www.bymalenebirger.com",
+    "extProductId": "1034241K2",
+    "payload": {
+      "brand": "by_malene_birger",
+      "fit": "tight",
+      "sizes": [
+        "XXS",
+        "XS",
+        "S",
+        "L",
+        "XL",
+        "M"
+      ],
+      "product_type": "sweater",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "XXS",
+      "secondSize": "XS",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-15T11:45:13.911Z",
+    "url": "https://www.bymalenebirger.com/dk/en/ready-to-wear/trousers/vilanna-high-waist-trousers/1018001BM.html?vs-test",
+    "store": "www.bymalenebirger.com",
+    "extProductId": "1018001BM",
+    "payload": {
+      "brand": "by_malene_birger",
+      "fit": "regular",
+      "sizes": [
+        "XXS",
+        "XS",
+        "S",
+        "L",
+        "XL",
+        "M"
+      ],
+      "product_type": "pants",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "M",
+      "secondSize": "L",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-15T11:45:26.477Z",
+    "url": "https://www.bymalenebirger.com/dk/en/ready-to-wear/coats-jackets/jacquie-jacket/104060Q02.html?vs-test",
+    "store": "www.bymalenebirger.com",
+    "extProductId": "104060Q02",
+    "payload": {
+      "brand": "unknown",
+      "fit": "loose",
+      "sizes": [
+        "32",
+        "34",
+        "36",
+        "38",
+        "40",
+        "42",
+        "44"
+      ],
+      "product_type": "jacket",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "36",
+      "secondSize": "34",
+      "scenario": "brand_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-15T11:45:52.551Z",
+    "url": "https://www.bymalenebirger.com/dk/en/ready-to-wear/knitwear/toka-cardigan/10329703Z.html?vs-test",
+    "store": "www.bymalenebirger.com",
+    "extProductId": "10329703Z",
+    "payload": {
+      "brand": "unknown",
+      "fit": "regular",
+      "sizes": [
+        "XXS",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "sweater",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "XL",
+      "secondSize": "L",
+      "scenario": "brand_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-15T11:46:07.136Z",
+    "url": "https://www.bymalenebirger.com/dk/en/ready-to-wear/trousers/cymbaria-high-waist-trousers/1031221EE.html?vs-test",
+    "store": "www.bymalenebirger.com",
+    "extProductId": "1031221EE",
+    "payload": {
+      "brand": "unknown",
+      "fit": "regular",
+      "sizes": [
+        "32",
+        "34",
+        "36",
+        "38",
+        "40",
+        "42",
+        "44"
+      ],
+      "product_type": "pants",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "34",
+      "secondSize": "36",
+      "scenario": "brand_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-15T11:46:18.039Z",
+    "url": "https://www.bymalenebirger.com/dk/en/ready-to-wear/coats-jackets/jacquie-wool-jacket/103414050.html?vs-test",
+    "store": "www.bymalenebirger.com",
+    "extProductId": "103414050",
+    "payload": {
+      "brand": "unknown",
+      "fit": "regular",
+      "sizes": [
+        "32",
+        "34",
+        "36",
+        "38",
+        "40",
+        "42",
+        "44"
+      ],
+      "product_type": "jacket",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "32",
+      "secondSize": "34",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-15T11:46:43.862Z",
+    "url": "https://www.bymalenebirger.com/dk/en/ready-to-wear/coats-jackets/jacquie-wool-jacket/103414144.html?vs-test",
+    "store": "www.bymalenebirger.com",
+    "extProductId": "103414144",
+    "payload": {
+      "brand": "unknown",
+      "fit": "tight",
+      "sizes": [
+        "32",
+        "34",
+        "36",
+        "38",
+        "40",
+        "42",
+        "44"
+      ],
+      "product_type": "jacket",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "32",
+      "secondSize": "34",
+      "scenario": "brand_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-15T11:46:55.841Z",
+    "url": "https://www.bymalenebirger.com/dk/en/ready-to-wear/knitwear/dotta-blouse/103293050.html?vs-test",
+    "store": "www.bymalenebirger.com",
+    "extProductId": "103293050",
+    "payload": {
+      "brand": "unknown",
+      "fit": "regular",
+      "sizes": [
+        "XXS",
+        "XS",
+        "S",
+        "L",
+        "XL",
+        "M"
+      ],
+      "product_type": "t_shirt",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "XL",
+      "secondSize": "L",
+      "scenario": "brand_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-15T11:47:36.029Z",
+    "url": "https://www.bymalenebirger.com/dk/en/ready-to-wear/knitwear/edel-top/103294050.html?vs-test",
+    "store": "www.bymalenebirger.com",
+    "extProductId": "103294050",
+    "payload": {
+      "brand": "unknown",
+      "fit": "regular",
+      "sizes": [
+        "XXS",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "top",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "XL",
+      "secondSize": "L",
+      "scenario": "brand_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-15T11:48:02.233Z",
+    "url": "https://www.bymalenebirger.com/dk/en/ready-to-wear/dresses/lisa-maxi-dress/1032435Z7.html?vs-test",
+    "store": "www.bymalenebirger.com",
+    "extProductId": "1032435Z7",
+    "payload": {
+      "brand": "unknown",
+      "fit": "regular",
+      "sizes": [
+        "32",
+        "34",
+        "36",
+        "38",
+        "40",
+        "42",
+        "44"
+      ],
+      "product_type": "tunic_sleeve",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "40",
+      "secondSize": "42",
+      "scenario": "brand_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-15T11:49:11.409Z",
+    "url": "https://www.bymalenebirger.com/dk/en/ready-to-wear/shirts/derris-organic-cotton-shirt/103165QG5.html?vs-test",
+    "store": "www.bymalenebirger.com",
+    "extProductId": "103165QG5",
+    "payload": {
+      "brand": "unknown",
+      "fit": "regular",
+      "sizes": [],
+      "product_type": "shirt",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "32",
+      "secondSize": "34",
+      "scenario": "brand_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-15T11:50:43.186Z",
+    "url": "https://www.bymalenebirger.com/dk/en/ready-to-wear/dresses/lovelo-maxi-dress/1020295Z7.html?vs-test",
+    "store": "www.bymalenebirger.com",
+    "extProductId": "1020295Z7",
+    "payload": {
+      "brand": "by_malene_birger",
+      "fit": "tight",
+      "sizes": [
+        "XXS",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "dress",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "XL",
+      "secondSize": "L",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-15T11:51:23.929Z",
+    "url": "https://www.bymalenebirger.com/dk/en/ready-to-wear/dresses/marciella-maxi-dress/1021975Z7.html?vs-test",
+    "store": "www.bymalenebirger.com",
+    "extProductId": "1021975Z7",
+    "payload": {
+      "brand": "by_malene_birger",
+      "fit": "regular",
+      "sizes": [
+        "XXS",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "dress_a_line",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "XL",
+      "secondSize": "L",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-15T11:51:51.010Z",
+    "url": "https://www.bymalenebirger.com/dk/en/ready-to-wear/dresses/lio-maxi-dress/103106T5M.html?vs-test",
+    "store": "www.bymalenebirger.com",
+    "extProductId": "103106T5M",
+    "payload": {
+      "brand": "unknown",
+      "fit": "regular",
+      "sizes": [],
+      "product_type": "dress",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "XL",
+      "secondSize": "L",
+      "scenario": "brand_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-15T11:52:46.782Z",
+    "url": "https://www.bymalenebirger.com/dk/en/ready-to-wear/knitwear/dotta-blouse/1032935Z7.html?vs-test",
+    "store": "www.bymalenebirger.com",
+    "extProductId": "1032935Z7",
+    "payload": {
+      "brand": "unknown",
+      "fit": "regular",
+      "sizes": [
+        "XXS",
+        "XS",
+        "S",
+        "L",
+        "XL",
+        "M"
+      ],
+      "product_type": "t_shirt",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "XL",
+      "secondSize": "L",
+      "scenario": "brand_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-15T11:53:14.288Z",
+    "url": "https://www.bymalenebirger.com/dk/en/ready-to-wear/knitwear/dotta-blouse/103293144.html?vs-test",
+    "store": "www.bymalenebirger.com",
+    "extProductId": "103293144",
+    "payload": {
+      "brand": "unknown",
+      "fit": "regular",
+      "sizes": [
+        "XXS",
+        "XS",
+        "S",
+        "L",
+        "XL",
+        "M"
+      ],
+      "product_type": "t_shirt",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "XL",
+      "secondSize": "L",
+      "scenario": "brand_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-15T11:53:55.152Z",
+    "url": "https://www.bymalenebirger.com/dk/en/ready-to-wear/trousers/piscata-wide-leg-trousers/103368144.html?vs-test",
+    "store": "www.bymalenebirger.com",
+    "extProductId": "103368144",
+    "payload": {
+      "brand": "unknown",
+      "fit": "wide",
+      "sizes": [
+        "XXS",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "pants",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "XS",
+      "secondSize": "S",
+      "scenario": "brand_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-15T11:54:08.401Z",
+    "url": "https://www.bymalenebirger.com/dk/en/ready-to-wear/knitwear/edel-top/103294144.html?vs-test",
+    "store": "www.bymalenebirger.com",
+    "extProductId": "103294144",
+    "payload": {
+      "brand": "unknown",
+      "fit": "regular",
+      "sizes": [
+        "XXS",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "top",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "XL",
+      "secondSize": "L",
+      "scenario": "brand_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-15T11:55:04.346Z",
+    "url": "https://www.bymalenebirger.com/dk/en/ready-to-wear/coats-jackets/zoena-leather-jacket/102233050.html?vs-test",
+    "store": "www.bymalenebirger.com",
+    "extProductId": "102233050",
+    "payload": {
+      "brand": "by_malene_birger",
+      "fit": "regular",
+      "sizes": [
+        "32",
+        "34",
+        "36",
+        "38",
+        "40",
+        "42",
+        "44"
+      ],
+      "product_type": "shirt",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "32",
+      "secondSize": "34",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-15T11:55:17.054Z",
+    "url": "https://www.bymalenebirger.com/dk/en/ready-to-wear/trousers/piscata-wide-leg-trousers/103368050.html?vs-test",
+    "store": "www.bymalenebirger.com",
+    "extProductId": "103368050",
+    "payload": {
+      "brand": "unknown",
+      "fit": "wide",
+      "sizes": [
+        "XXS",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "product_type": "pants",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "XS",
+      "secondSize": "S",
+      "scenario": "brand_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-15T11:55:58.403Z",
+    "url": "https://www.bymalenebirger.com/dk/en/ready-to-wear/blazers/hilao-single-breasted-blazer/1034661T3.html?vs-test",
+    "store": "www.bymalenebirger.com",
+    "extProductId": "1034661T3",
+    "payload": {
+      "brand": "unknown",
+      "fit": "regular",
+      "sizes": [
+        "32",
+        "34",
+        "36",
+        "38",
+        "40",
+        "42",
+        "44"
+      ],
+      "product_type": "jacket",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "38",
+      "secondSize": "36",
+      "scenario": "brand_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-15T11:56:10.365Z",
+    "url": "https://www.bymalenebirger.com/dk/en/ready-to-wear/blazers/hilao-single-breasted-blazer/103466050.html?vs-test",
+    "store": "www.bymalenebirger.com",
+    "extProductId": "103466050",
+    "payload": {
+      "brand": "unknown",
+      "fit": "regular",
+      "sizes": [
+        "32",
+        "34",
+        "36",
+        "38",
+        "40",
+        "42",
+        "44"
+      ],
+      "product_type": "jacket",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "38",
+      "secondSize": "36",
+      "scenario": "brand_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-15T11:58:00.663Z",
+    "url": "https://www.bymalenebirger.com/dk/en/ready-to-wear/shirts/derris-organic-cotton-shirt/1031655Z7.html?vs-test",
+    "store": "www.bymalenebirger.com",
+    "extProductId": "1031655Z7",
+    "payload": {
+      "brand": "unknown",
+      "fit": "regular",
+      "sizes": [],
+      "product_type": "shirt",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "32",
+      "secondSize": "34",
+      "scenario": "brand_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-15T11:58:55.641Z",
+    "url": "https://www.bymalenebirger.com/dk/en/ready-to-wear/trousers/cabello-wide-leg-trousers/103568050.html?vs-test",
+    "store": "www.bymalenebirger.com",
+    "extProductId": "103568050",
+    "payload": {
+      "brand": "unknown",
+      "fit": "wide",
+      "sizes": [
+        "32",
+        "34",
+        "36",
+        "38",
+        "40",
+        "42",
+        "44"
+      ],
+      "product_type": "pants",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "34",
+      "secondSize": "36",
+      "scenario": "brand_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-15T11:59:08.898Z",
+    "url": "https://www.bymalenebirger.com/dk/en/ready-to-wear/trousers/cabello-wide-leg-trousers/1035681T3.html?vs-test",
+    "store": "www.bymalenebirger.com",
+    "extProductId": "1035681T3",
+    "payload": {
+      "brand": "unknown",
+      "fit": "wide",
+      "sizes": [
+        "32",
+        "34",
+        "36",
+        "38",
+        "40",
+        "42",
+        "44"
+      ],
+      "product_type": "pants",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "34",
+      "secondSize": "36",
+      "scenario": "brand_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-15T11:59:21.041Z",
+    "url": "https://www.bymalenebirger.com/dk/en/ready-to-wear/tops-blouses/frillio-top/103107T5M.html?vs-test",
+    "store": "www.bymalenebirger.com",
+    "extProductId": "103107T5M",
+    "payload": {
+      "brand": "unknown",
+      "fit": "regular",
+      "sizes": [],
+      "product_type": "top",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "XL",
+      "secondSize": "L",
+      "scenario": "brand_medians",
+      "willFit": true
+    }
   }
 ]
