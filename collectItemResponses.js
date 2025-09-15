@@ -26,9 +26,11 @@ import storeLinks from "./storeLinks.js";
 
     page.on("response", async (response) => {
       if (
-        response.url().includes("size-recommendation.virtusize.jp/item") &&
-        response.request().method() === "POST"
-      ) {
+  response.url().includes("size-recommendation.virtusize") &&
+  response.url().includes("/item") &&
+  response.request().method() === "POST"
+)
+ {
         try {
           const reqData = JSON.parse(response.request().postData());
           const payload = reqData.items?.[0]?.additional_info || {};
