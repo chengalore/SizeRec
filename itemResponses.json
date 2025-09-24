@@ -34059,5 +34059,2038 @@
       "scenario": "general_medians",
       "willFit": true
     }
+  },
+  {
+    "timestamp": "2025-09-24T03:29:56.309Z",
+    "url": "https://united-arrows-global.com/en-ph/products/11251109060",
+    "store": "united-arrows-global.com",
+    "extProductId": "11251109060",
+    "payload": {
+      "brand": "sovereign",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "gender": "unisex",
+      "style": "formal",
+      "product_type": "jacket",
+      "user_gender": "male",
+      "user_height": 1820,
+      "user_weight": 85,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "XL",
+      "secondSize": "L",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-24T03:30:14.973Z",
+    "url": "https://united-arrows-global.com/en-ph/products/12251990219",
+    "store": "united-arrows-global.com",
+    "extProductId": "12251990219",
+    "payload": {
+      "brand": "beauty&youth",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "gender": "unisex",
+      "style": "regular",
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1820,
+      "user_weight": 85,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "XL",
+      "secondSize": "L",
+      "scenario": "brand_medians",
+      "willFit": false
+    }
+  },
+  {
+    "timestamp": "2025-09-24T03:30:30.869Z",
+    "url": "https://united-arrows-global.com/en-ph/products/35266000008",
+    "store": "united-arrows-global.com",
+    "extProductId": "35266000008",
+    "payload": {
+      "brand": "green label relaxing",
+      "fit": "regular",
+      "sizes": [
+        "ONE"
+      ],
+      "gender": "female",
+      "style": "flared",
+      "product_type": "tunic_sleeve",
+      "user_gender": "male",
+      "user_height": 1820,
+      "user_weight": 85,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "FREE",
+      "secondSize": "",
+      "scenario": "brand_medians",
+      "willFit": false
+    }
+  },
+  {
+    "timestamp": "2025-09-24T03:30:47.705Z",
+    "url": "https://united-arrows-global.com/en-ph/products/80271990008",
+    "store": "united-arrows-global.com",
+    "extProductId": "80271990008",
+    "payload": {
+      "brand": "california general store",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "gender": "unisex",
+      "style": "regular",
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1820,
+      "user_weight": 85,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "S",
+      "secondSize": "M",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-24T03:31:02.955Z",
+    "url": "https://united-arrows-global.com/en-ph/products/12142469823",
+    "store": "united-arrows-global.com",
+    "extProductId": "12142469823",
+    "payload": {
+      "brand": "h beauty&youth",
+      "fit": "wide",
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "gender": "unisex",
+      "style": "sweatpants",
+      "product_type": "pants",
+      "user_gender": "male",
+      "user_height": 1820,
+      "user_weight": 85,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "L",
+      "secondSize": "M",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-24T03:31:35.109Z",
+    "url": "https://united-arrows-global.com/en-ph/products/35241000000",
+    "store": "united-arrows-global.com",
+    "extProductId": "35241000000",
+    "payload": {
+      "brand": "green label relaxing",
+      "fit": "tight",
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "gender": "female",
+      "style": "tight",
+      "product_type": "skirt",
+      "user_gender": "male",
+      "user_height": 1820,
+      "user_weight": 85,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "(40)",
+      "secondSize": "(38)",
+      "scenario": "brand_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-24T03:31:51.178Z",
+    "url": "https://united-arrows-global.com/en-ph/products/36281190875",
+    "store": "united-arrows-global.com",
+    "extProductId": "36281190875",
+    "payload": {
+      "brand": "green label relaxing",
+      "fit": "regular",
+      "sizes": [
+        "ONE"
+      ],
+      "gender": "female",
+      "style": "regular",
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1820,
+      "user_weight": 85,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "FREE",
+      "secondSize": "",
+      "scenario": "general_medians",
+      "willFit": false
+    }
+  },
+  {
+    "timestamp": "2025-09-24T03:32:07.441Z",
+    "url": "https://united-arrows-global.com/en-ph/products/65114990593",
+    "store": "united-arrows-global.com",
+    "extProductId": "65114990593",
+    "payload": {
+      "brand": "sebline",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M"
+      ],
+      "gender": "female",
+      "style": "regular",
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1820,
+      "user_weight": 85,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "M",
+      "secondSize": "S",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-24T03:32:55.892Z",
+    "url": "https://united-arrows-global.com/en-ph/products/31221991737",
+    "store": "united-arrows-global.com",
+    "extProductId": "31221991737",
+    "payload": {
+      "brand": "green label relaxing",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "gender": "unisex",
+      "style": "formal",
+      "product_type": "jacket",
+      "user_gender": "male",
+      "user_height": 1820,
+      "user_weight": 85,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "XL",
+      "secondSize": "L",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-24T03:33:27.998Z",
+    "url": "https://united-arrows-global.com/en-ph/products/12111862501",
+    "store": "united-arrows-global.com",
+    "extProductId": "12111862501",
+    "payload": {
+      "brand": "h beauty&youth",
+      "fit": "loose",
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "gender": "unisex",
+      "style": "casual",
+      "product_type": "shirt",
+      "user_gender": "male",
+      "user_height": 1820,
+      "user_weight": 85,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "M",
+      "secondSize": "L",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-24T03:34:00.086Z",
+    "url": "https://united-arrows-global.com/en-ph/products/32131411447",
+    "store": "united-arrows-global.com",
+    "extProductId": "32131411447",
+    "payload": {
+      "brand": "green label relaxing",
+      "fit": "tight",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "gender": "unisex",
+      "style": "regular",
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1820,
+      "user_weight": 85,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "XL",
+      "secondSize": "L",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-24T03:34:16.145Z",
+    "url": "https://united-arrows-global.com/en-ph/products/42546000009",
+    "store": "united-arrows-global.com",
+    "extProductId": "42546000009",
+    "payload": {
+      "brand": "citen",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "gender": "unisex",
+      "style": "sweatpants",
+      "product_type": "pants",
+      "user_gender": "male",
+      "user_height": 1820,
+      "user_weight": 85,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "L",
+      "secondSize": "M",
+      "scenario": "brand_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-24T03:34:31.553Z",
+    "url": "https://united-arrows-global.com/en-ph/products/56121000001",
+    "store": "united-arrows-global.com",
+    "extProductId": "56121000001",
+    "payload": {
+      "brand": "attisession",
+      "fit": "tight",
+      "sizes": [
+        "ONE"
+      ],
+      "gender": "female",
+      "style": "regular",
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1820,
+      "user_weight": 85,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "FREE",
+      "secondSize": "",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-24T03:34:47.458Z",
+    "url": "https://united-arrows-global.com/en-ph/products/11211103196",
+    "store": "united-arrows-global.com",
+    "extProductId": "11211103196",
+    "payload": {
+      "brand": "united arrows",
+      "fit": "slim",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "gender": "unisex",
+      "style": "trousers",
+      "product_type": "pants",
+      "user_gender": "male",
+      "user_height": 1820,
+      "user_weight": 85,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "XL",
+      "secondSize": "XXL",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-24T03:35:04.247Z",
+    "url": "https://united-arrows-global.com/en-ph/products/32131991439",
+    "store": "united-arrows-global.com",
+    "extProductId": "32131991439",
+    "payload": {
+      "brand": "green label relaxing",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "gender": "unisex",
+      "style": "pullover",
+      "product_type": "sweater",
+      "user_gender": "male",
+      "user_height": 1820,
+      "user_weight": 85,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "XL",
+      "secondSize": "L",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-24T03:35:20.450Z",
+    "url": "https://united-arrows-global.com/en-ph/products/12141000014",
+    "store": "united-arrows-global.com",
+    "extProductId": "12141000014",
+    "payload": {
+      "brand": "beauty&youth",
+      "fit": "slim",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "gender": "unisex",
+      "style": "trousers",
+      "product_type": "pants",
+      "user_gender": "male",
+      "user_height": 1820,
+      "user_weight": 85,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "XL",
+      "secondSize": "L",
+      "scenario": "brand_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-24T03:36:02.021Z",
+    "url": "https://united-arrows-global.com/en-ph/products/62126000019",
+    "store": "united-arrows-global.com",
+    "extProductId": "62126000019",
+    "payload": {
+      "brand": "a day in the life",
+      "fit": "regular",
+      "sizes": [
+        "M",
+        "L"
+      ],
+      "gender": "unisex",
+      "style": "casual",
+      "product_type": "shirt",
+      "user_gender": "male",
+      "user_height": 1820,
+      "user_weight": 85,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "L",
+      "secondSize": "M",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-24T03:36:33.328Z",
+    "url": "https://united-arrows-global.com/en-ph/products/64136990469",
+    "store": "united-arrows-global.com",
+    "extProductId": "64136990469",
+    "payload": {
+      "brand": "a day in the life",
+      "fit": "regular",
+      "sizes": [
+        "ニット",
+        "Tシャツ"
+      ],
+      "gender": "female",
+      "style": "blouse",
+      "product_type": "shirt",
+      "user_gender": "male",
+      "user_height": 1820,
+      "user_weight": 85,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "ニット",
+      "secondSize": "Tシャツ",
+      "scenario": "brand_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-24T03:36:48.741Z",
+    "url": "https://united-arrows-global.com/en-ph/products/11151990178",
+    "store": "united-arrows-global.com",
+    "extProductId": "11151990178",
+    "payload": {
+      "brand": "united arrows",
+      "fit": "tight",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "gender": "unisex",
+      "style": "cardigan",
+      "product_type": "sweater",
+      "user_gender": "male",
+      "user_height": 1820,
+      "user_weight": 85,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "M",
+      "secondSize": "L",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-24T03:37:04.798Z",
+    "url": "https://united-arrows-global.com/en-ph/products/11111994346",
+    "store": "united-arrows-global.com",
+    "extProductId": "11111994346",
+    "payload": {
+      "brand": "united arrows",
+      "fit": "regular",
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "gender": "unisex",
+      "style": "formal",
+      "product_type": "shirt",
+      "user_gender": "male",
+      "user_height": 1820,
+      "user_weight": 85,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "XL(43cm)",
+      "secondSize": "L-XL(42cm)",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-24T03:37:21.280Z",
+    "url": "https://united-arrows-global.com/en-ph/products/12251990220",
+    "store": "united-arrows-global.com",
+    "extProductId": "12251990220",
+    "payload": {
+      "brand": "h beauty&youth",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "gender": "unisex",
+      "style": "fashionable",
+      "product_type": "jacket",
+      "user_gender": "male",
+      "user_height": 1820,
+      "user_weight": 85,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "M",
+      "secondSize": "S",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-24T03:37:37.633Z",
+    "url": "https://united-arrows-global.com/en-ph/products/32251793986",
+    "store": "united-arrows-global.com",
+    "extProductId": "32251793986",
+    "payload": {
+      "brand": "green label relaxing",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "gender": "unisex",
+      "style": "fashionable",
+      "product_type": "jacket",
+      "user_gender": "male",
+      "user_height": 1820,
+      "user_weight": 85,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "M",
+      "secondSize": "L",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-24T03:37:53.713Z",
+    "url": "https://united-arrows-global.com/en-ph/products/31221421734",
+    "store": "united-arrows-global.com",
+    "extProductId": "31221421734",
+    "payload": {
+      "brand": "green label relaxing",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "gender": "unisex",
+      "style": "regular",
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1820,
+      "user_weight": 85,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "XL",
+      "secondSize": "L",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-24T03:38:10.192Z",
+    "url": "https://united-arrows-global.com/en-ph/products/31141581706",
+    "store": "united-arrows-global.com",
+    "extProductId": "31141581706",
+    "payload": {
+      "brand": "green label relaxing",
+      "fit": "slim",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "gender": "unisex",
+      "style": "jeans",
+      "product_type": "pants",
+      "user_gender": "male",
+      "user_height": 1820,
+      "user_weight": 85,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "XS",
+      "secondSize": "S",
+      "scenario": "brand_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-24T03:38:58.817Z",
+    "url": "https://united-arrows-global.com/en-ph/products/35221000008",
+    "store": "united-arrows-global.com",
+    "extProductId": "35221000008",
+    "payload": {
+      "brand": "green label relaxing",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M"
+      ],
+      "gender": "female",
+      "style": "regular",
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1820,
+      "user_weight": 85,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "(38)",
+      "secondSize": "(36)",
+      "scenario": "general_medians",
+      "willFit": false
+    }
+  },
+  {
+    "timestamp": "2025-09-24T03:39:15.230Z",
+    "url": "https://united-arrows-global.com/en-ph/products/15181360001",
+    "store": "united-arrows-global.com",
+    "extProductId": "15181360001",
+    "payload": {
+      "brand": "united arrows",
+      "fit": "regular",
+      "sizes": [
+        "ONE"
+      ],
+      "gender": "female",
+      "style": "regular",
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1820,
+      "user_weight": 85,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "FREE",
+      "secondSize": "",
+      "scenario": "brand_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-24T03:39:31.332Z",
+    "url": "https://united-arrows-global.com/en-ph/products/64146000003",
+    "store": "united-arrows-global.com",
+    "extProductId": "64146000003",
+    "payload": {
+      "brand": "a day in the life",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M"
+      ],
+      "gender": "female",
+      "style": "sweatpants",
+      "product_type": "pants",
+      "user_gender": "male",
+      "user_height": 1820,
+      "user_weight": 85,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "M",
+      "secondSize": "S",
+      "scenario": "general_medians",
+      "willFit": false
+    }
+  },
+  {
+    "timestamp": "2025-09-24T03:40:03.685Z",
+    "url": "https://united-arrows-global.com/en-ph/products/63216990365",
+    "store": "united-arrows-global.com",
+    "extProductId": "63216990365",
+    "payload": {
+      "brand": "a day in the life",
+      "fit": "regular",
+      "sizes": [
+        "ONE"
+      ],
+      "gender": "female",
+      "style": "regular",
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1820,
+      "user_weight": 85,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "FREE",
+      "secondSize": "",
+      "scenario": "brand_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-24T03:40:20.140Z",
+    "url": "https://united-arrows-global.com/en-ph/products/35116000008",
+    "store": "united-arrows-global.com",
+    "extProductId": "35116000008",
+    "payload": {
+      "brand": "green label relaxing",
+      "fit": "regular",
+      "sizes": [
+        "ONE"
+      ],
+      "gender": "female",
+      "style": "regular",
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1820,
+      "user_weight": 85,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "FREE",
+      "secondSize": "",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-24T03:40:36.437Z",
+    "url": "https://united-arrows-global.com/en-ph/products/35181190411",
+    "store": "united-arrows-global.com",
+    "extProductId": "35181190411",
+    "payload": {
+      "brand": "green label relaxing",
+      "fit": "regular",
+      "sizes": [
+        "ONE"
+      ],
+      "gender": "female",
+      "style": "vest",
+      "product_type": "top",
+      "user_gender": "male",
+      "user_height": 1820,
+      "user_weight": 85,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "FREE",
+      "secondSize": "",
+      "scenario": "brand_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-24T03:40:51.974Z",
+    "url": "https://united-arrows-global.com/en-ph/products/55222000000",
+    "store": "united-arrows-global.com",
+    "extProductId": "55222000000",
+    "payload": {
+      "brand": "united arrows & sons",
+      "fit": "loose",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "gender": "unisex",
+      "style": "formal",
+      "product_type": "jacket",
+      "user_gender": "male",
+      "user_height": 1820,
+      "user_weight": 85,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "XL",
+      "secondSize": "L",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-24T03:41:08.375Z",
+    "url": "https://united-arrows-global.com/en-ph/products/63256990440",
+    "store": "united-arrows-global.com",
+    "extProductId": "63256990440",
+    "payload": {
+      "brand": "a day in the life",
+      "fit": "loose",
+      "sizes": [
+        "ONE"
+      ],
+      "gender": "female",
+      "style": "vest",
+      "product_type": "top",
+      "user_gender": "male",
+      "user_height": 1820,
+      "user_weight": 85,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "FREE",
+      "secondSize": "",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-24T03:41:21.469Z",
+    "url": "https://united-arrows-global.com/en-ph/products/32126000001",
+    "store": "united-arrows-global.com",
+    "extProductId": "32126000001",
+    "payload": {
+      "brand": "green label relaxing",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "gender": "unisex",
+      "style": "blouse",
+      "product_type": "shirt",
+      "user_gender": "male",
+      "user_height": 1820,
+      "user_weight": 85,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "S",
+      "secondSize": "M",
+      "scenario": "brand_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-24T03:42:09.566Z",
+    "url": "https://united-arrows-global.com/en-ph/products/12251990225",
+    "store": "united-arrows-global.com",
+    "extProductId": "12251990225",
+    "payload": {
+      "brand": "h beauty&youth",
+      "fit": "loose",
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "gender": "unisex",
+      "style": "regular",
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1820,
+      "user_weight": 85,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "S",
+      "secondSize": "M",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-24T03:42:25.571Z",
+    "url": "https://united-arrows-global.com/en-ph/products/42656990059",
+    "store": "united-arrows-global.com",
+    "extProductId": "42656990059",
+    "payload": {
+      "brand": "citen",
+      "fit": "loose",
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "gender": "unisex",
+      "style": "fashionable",
+      "product_type": "jacket",
+      "user_gender": "male",
+      "user_height": 1820,
+      "user_weight": 85,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "XL",
+      "secondSize": "L",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-24T03:42:41.412Z",
+    "url": "https://united-arrows-global.com/en-ph/products/87161990164",
+    "store": "united-arrows-global.com",
+    "extProductId": "87161990164",
+    "payload": {
+      "brand": "aewen matoph",
+      "fit": "tight",
+      "sizes": [
+        "ONE"
+      ],
+      "gender": "female",
+      "style": "knit",
+      "product_type": "top",
+      "user_gender": "male",
+      "user_height": 1820,
+      "user_weight": 85,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "FREE",
+      "secondSize": "",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-24T03:42:59.863Z",
+    "url": "https://united-arrows-global.com/en-ph/products/11211103195",
+    "store": "united-arrows-global.com",
+    "extProductId": "11211103195",
+    "payload": {
+      "brand": "united arrows",
+      "fit": "loose",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "gender": "unisex",
+      "style": "formal",
+      "product_type": "jacket",
+      "user_gender": "male",
+      "user_height": 1820,
+      "user_weight": 85,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "XXL",
+      "secondSize": "XL",
+      "scenario": "general_medians",
+      "willFit": false
+    }
+  },
+  {
+    "timestamp": "2025-09-24T03:43:15.791Z",
+    "url": "https://united-arrows-global.com/en-ph/products/82222000000",
+    "store": "united-arrows-global.com",
+    "extProductId": "82222000000",
+    "payload": {
+      "brand": "steven alan",
+      "fit": "loose",
+      "sizes": [
+        "S",
+        "M"
+      ],
+      "gender": "female",
+      "style": "regular",
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1820,
+      "user_weight": 85,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "M",
+      "secondSize": "S",
+      "scenario": "brand_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-24T03:43:32.268Z",
+    "url": "https://united-arrows-global.com/en-ph/products/32124000026",
+    "store": "united-arrows-global.com",
+    "extProductId": "32124000026",
+    "payload": {
+      "brand": "fred perry",
+      "fit": "regular",
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "gender": "unisex",
+      "style": "regular",
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1820,
+      "user_weight": 85,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "L",
+      "secondSize": "M",
+      "scenario": "brand_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-24T03:44:12.996Z",
+    "url": "https://united-arrows-global.com/en-ph/products/36221990294",
+    "store": "united-arrows-global.com",
+    "extProductId": "36221990294",
+    "payload": {
+      "brand": "green label relaxing",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M"
+      ],
+      "gender": "female",
+      "style": "regular",
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1820,
+      "user_weight": 85,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "(38)",
+      "secondSize": "(36)",
+      "scenario": "general_medians",
+      "willFit": false
+    }
+  },
+  {
+    "timestamp": "2025-09-24T03:45:22.092Z",
+    "url": "https://united-arrows-global.com/en-ph/products/16251995419",
+    "store": "united-arrows-global.com",
+    "extProductId": "16251995419",
+    "payload": {
+      "brand": "h beauty&youth",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M"
+      ],
+      "gender": "female",
+      "style": "regular",
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1820,
+      "user_weight": 85,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "M",
+      "secondSize": "S",
+      "scenario": "brand_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-24T03:45:38.078Z",
+    "url": "https://united-arrows-global.com/en-ph/products/12111000002",
+    "store": "united-arrows-global.com",
+    "extProductId": "12111000002",
+    "payload": {
+      "brand": "beauty&youth",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "gender": "unisex",
+      "style": "casual",
+      "product_type": "shirt",
+      "user_gender": "male",
+      "user_height": 1820,
+      "user_weight": 85,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "L",
+      "secondSize": "M",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-24T03:46:18.819Z",
+    "url": "https://united-arrows-global.com/en-ph/products/12116000002",
+    "store": "united-arrows-global.com",
+    "extProductId": "12116000002",
+    "payload": {
+      "brand": "beauty&youth",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "gender": "unisex",
+      "style": "regular",
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1820,
+      "user_weight": 85,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "XL",
+      "secondSize": "L",
+      "scenario": "brand_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-24T03:46:58.854Z",
+    "url": "https://united-arrows-global.com/en-ph/products/64146000001",
+    "store": "united-arrows-global.com",
+    "extProductId": "64146000001",
+    "payload": {
+      "brand": "a day in the life",
+      "fit": "wide",
+      "sizes": [
+        "S",
+        "M"
+      ],
+      "gender": "female",
+      "style": "culottes",
+      "product_type": "pants",
+      "user_gender": "male",
+      "user_height": 1820,
+      "user_weight": 85,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "M",
+      "secondSize": "S",
+      "scenario": "brand_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-24T03:47:30.378Z",
+    "url": "https://united-arrows-global.com/en-ph/products/11221106473",
+    "store": "united-arrows-global.com",
+    "extProductId": "11221106473",
+    "payload": {
+      "brand": "united arrows",
+      "fit": "loose",
+      "sizes": [
+        "ONE"
+      ],
+      "gender": "unisex",
+      "style": "regular",
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1820,
+      "user_weight": 85,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "ONE SIZE",
+      "secondSize": "",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-24T03:47:46.087Z",
+    "url": "https://united-arrows-global.com/en-ph/products/12251990214",
+    "store": "united-arrows-global.com",
+    "extProductId": "12251990214",
+    "payload": {
+      "brand": "beauty&youth",
+      "fit": "loose",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "gender": "unisex",
+      "style": "fashionable",
+      "product_type": "jacket",
+      "user_gender": "male",
+      "user_height": 1820,
+      "user_weight": 85,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "XL",
+      "secondSize": "L",
+      "scenario": "brand_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-24T03:48:01.847Z",
+    "url": "https://united-arrows-global.com/en-ph/products/12271000002",
+    "store": "united-arrows-global.com",
+    "extProductId": "12271000002",
+    "payload": {
+      "brand": "beauty&youth",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "gender": "unisex",
+      "style": "regular",
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1820,
+      "user_weight": 85,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "XL",
+      "secondSize": "L",
+      "scenario": "brand_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-24T03:48:18.790Z",
+    "url": "https://united-arrows-global.com/en-ph/products/11131994951",
+    "store": "united-arrows-global.com",
+    "extProductId": "11131994951",
+    "payload": {
+      "brand": "united arrows",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "gender": "unisex",
+      "style": "regular",
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1820,
+      "user_weight": 85,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "XL",
+      "secondSize": "L",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-24T03:48:59.835Z",
+    "url": "https://united-arrows-global.com/en-ph/products/61146990395",
+    "store": "united-arrows-global.com",
+    "extProductId": "61146990395",
+    "payload": {
+      "brand": "a day in the life",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "gender": "unisex",
+      "style": "trousers",
+      "product_type": "pants",
+      "user_gender": "male",
+      "user_height": 1820,
+      "user_weight": 85,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "XL",
+      "secondSize": "L",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-24T03:50:44.946Z",
+    "url": "https://united-arrows-global.com/en-ph/products/35261992747",
+    "store": "united-arrows-global.com",
+    "extProductId": "35261992747",
+    "payload": {
+      "brand": "green label relaxing",
+      "fit": "regular",
+      "sizes": [
+        "ONE"
+      ],
+      "gender": "female",
+      "style": "flared",
+      "product_type": "dress",
+      "user_gender": "male",
+      "user_height": 1820,
+      "user_weight": 85,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "FREE",
+      "secondSize": "",
+      "scenario": "brand_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-24T03:51:40.913Z",
+    "url": "https://united-arrows-global.com/en-ph/products/36171000003",
+    "store": "united-arrows-global.com",
+    "extProductId": "36171000003",
+    "payload": {
+      "brand": "green label relaxing",
+      "fit": "regular",
+      "sizes": [
+        "ONE"
+      ],
+      "gender": "female",
+      "style": "sleeveless",
+      "product_type": "top",
+      "user_gender": "male",
+      "user_height": 1820,
+      "user_weight": 85,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "FREE",
+      "secondSize": "",
+      "scenario": "brand_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-24T03:51:56.586Z",
+    "url": "https://united-arrows-global.com/en-ph/products/15241995312",
+    "store": "united-arrows-global.com",
+    "extProductId": "15241995312",
+    "payload": {
+      "brand": "united arrows",
+      "fit": "flared",
+      "sizes": [
+        "36",
+        "38"
+      ],
+      "gender": "female",
+      "style": "flared",
+      "product_type": "skirt",
+      "user_gender": "male",
+      "user_height": 1820,
+      "user_weight": 85,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "(38)",
+      "secondSize": "(36)",
+      "scenario": "brand_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-24T03:52:13.241Z",
+    "url": "https://united-arrows-global.com/en-ph/products/32116000000",
+    "store": "united-arrows-global.com",
+    "extProductId": "32116000000",
+    "payload": {
+      "brand": "green label relaxing",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "gender": "unisex",
+      "style": "regular",
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1820,
+      "user_weight": 85,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "XL",
+      "secondSize": "L",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-24T03:53:09.853Z",
+    "url": "https://united-arrows-global.com/en-ph/products/12221100497",
+    "store": "united-arrows-global.com",
+    "extProductId": "12221100497",
+    "payload": {
+      "brand": "h beauty&youth",
+      "fit": "loose",
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "gender": "unisex",
+      "style": "regular",
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1820,
+      "user_weight": 85,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "L",
+      "secondSize": "M",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-24T03:53:44.694Z",
+    "url": "https://united-arrows-global.com/en-ph/products/36251692261",
+    "store": "united-arrows-global.com",
+    "extProductId": "36251692261",
+    "payload": {
+      "brand": "green label relaxing",
+      "fit": "loose",
+      "sizes": [
+        "ONE"
+      ],
+      "gender": "female",
+      "style": "protective",
+      "product_type": "jacket",
+      "user_gender": "male",
+      "user_height": 1820,
+      "user_weight": 85,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "FREE",
+      "secondSize": "",
+      "scenario": "brand_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-24T03:54:16.382Z",
+    "url": "https://united-arrows-global.com/en-ph/products/35111000000",
+    "store": "united-arrows-global.com",
+    "extProductId": "35111000000",
+    "payload": {
+      "brand": "green label relaxing",
+      "fit": "loose",
+      "sizes": [
+        "ONE"
+      ],
+      "gender": "female",
+      "style": "regular",
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1820,
+      "user_weight": 85,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "FREE",
+      "secondSize": "",
+      "scenario": "general_medians",
+      "willFit": false
+    }
+  },
+  {
+    "timestamp": "2025-09-24T03:54:32.324Z",
+    "url": "https://united-arrows-global.com/en-ph/products/16141266586",
+    "store": "united-arrows-global.com",
+    "extProductId": "16141266586",
+    "payload": {
+      "brand": "beauty&youth",
+      "fit": "wide",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "gender": "female",
+      "style": "trousers",
+      "product_type": "pants",
+      "user_gender": "male",
+      "user_height": 1820,
+      "user_weight": 85,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "L",
+      "secondSize": "M",
+      "scenario": "brand_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-24T03:55:13.910Z",
+    "url": "https://united-arrows-global.com/en-ph/products/64126000024",
+    "store": "united-arrows-global.com",
+    "extProductId": "64126000024",
+    "payload": {
+      "brand": "a day in the life",
+      "fit": "regular",
+      "sizes": [
+        "ONE"
+      ],
+      "gender": "female",
+      "style": "regular",
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1820,
+      "user_weight": 85,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "FREE",
+      "secondSize": "",
+      "scenario": "brand_medians",
+      "willFit": false
+    }
+  },
+  {
+    "timestamp": "2025-09-24T03:55:30.541Z",
+    "url": "https://united-arrows-global.com/en-ph/products/64146000008",
+    "store": "united-arrows-global.com",
+    "extProductId": "64146000008",
+    "payload": {
+      "brand": "a day in the life",
+      "fit": "wide",
+      "sizes": [
+        "S",
+        "M"
+      ],
+      "gender": "female",
+      "style": "trousers",
+      "product_type": "pants",
+      "user_gender": "male",
+      "user_height": 1820,
+      "user_weight": 85,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "M",
+      "secondSize": "S",
+      "scenario": "brand_medians",
+      "willFit": false
+    }
+  },
+  {
+    "timestamp": "2025-09-24T03:55:43.633Z",
+    "url": "https://united-arrows-global.com/en-ph/products/16141000018",
+    "store": "united-arrows-global.com",
+    "extProductId": "16141000018",
+    "payload": {
+      "brand": "h beauty&youth",
+      "fit": "wide",
+      "sizes": [
+        "S",
+        "M"
+      ],
+      "gender": "female",
+      "style": "trousers",
+      "product_type": "pants",
+      "user_gender": "male",
+      "user_height": 1820,
+      "user_weight": 85,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "M",
+      "secondSize": "S",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-24T03:56:00.077Z",
+    "url": "https://united-arrows-global.com/en-ph/products/12121000000",
+    "store": "united-arrows-global.com",
+    "extProductId": "12121000000",
+    "payload": {
+      "brand": "beauty&youth",
+      "fit": "tight",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "gender": "unisex",
+      "style": "regular",
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1820,
+      "user_weight": 85,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "M",
+      "secondSize": "L",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-24T03:56:15.636Z",
+    "url": "https://united-arrows-global.com/en-ph/products/16111000006",
+    "store": "united-arrows-global.com",
+    "extProductId": "16111000006",
+    "payload": {
+      "brand": "beauty&youth",
+      "fit": "regular",
+      "sizes": [
+        "ONE"
+      ],
+      "gender": "female",
+      "style": "regular",
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1820,
+      "user_weight": 85,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "FREE",
+      "secondSize": "",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-24T03:56:31.619Z",
+    "url": "https://united-arrows-global.com/en-ph/products/16111992491",
+    "store": "united-arrows-global.com",
+    "extProductId": "16111992491",
+    "payload": {
+      "brand": "beauty&youth",
+      "fit": "tight",
+      "sizes": [
+        "ONE"
+      ],
+      "gender": "female",
+      "style": "regular",
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1820,
+      "user_weight": 85,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "FREE",
+      "secondSize": "",
+      "scenario": "brand_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-24T03:56:47.647Z",
+    "url": "https://united-arrows-global.com/en-ph/products/62256990847",
+    "store": "united-arrows-global.com",
+    "extProductId": "62256990847",
+    "payload": {
+      "brand": "a day in the life",
+      "fit": "loose",
+      "sizes": [
+        "M",
+        "L"
+      ],
+      "gender": "unisex",
+      "style": "fashionable",
+      "product_type": "jacket",
+      "user_gender": "male",
+      "user_height": 1820,
+      "user_weight": 85,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "L",
+      "secondSize": "M",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-24T03:57:45.129Z",
+    "url": "https://united-arrows-global.com/en-ph/products/16141000008",
+    "store": "united-arrows-global.com",
+    "extProductId": "16141000008",
+    "payload": {
+      "brand": "beauty&youth",
+      "fit": "wide",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "gender": "female",
+      "style": "sweatpants",
+      "product_type": "pants",
+      "user_gender": "male",
+      "user_height": 1820,
+      "user_weight": 85,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "L",
+      "secondSize": "M",
+      "scenario": "brand_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-24T03:58:14.227Z",
+    "url": "https://united-arrows-global.com/en-ph/products/32111073367",
+    "store": "united-arrows-global.com",
+    "extProductId": "32111073367",
+    "payload": {
+      "brand": "green label relaxing",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "gender": "unisex",
+      "style": "regular",
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1820,
+      "user_weight": 85,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "S",
+      "secondSize": "M",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-24T03:58:27.457Z",
+    "url": "https://united-arrows-global.com/en-ph/products/63216990364",
+    "store": "united-arrows-global.com",
+    "extProductId": "63216990364",
+    "payload": {
+      "brand": "a day in the life",
+      "fit": "regular",
+      "sizes": [
+        "ONE"
+      ],
+      "gender": "female",
+      "style": "regular",
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1820,
+      "user_weight": 85,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "FREE",
+      "secondSize": "",
+      "scenario": "brand_medians",
+      "willFit": false
+    }
+  },
+  {
+    "timestamp": "2025-09-24T03:58:45.031Z",
+    "url": "https://united-arrows-global.com/en-ph/products/62115000000",
+    "store": "united-arrows-global.com",
+    "extProductId": "62115000000",
+    "payload": {
+      "brand": "a day in the life",
+      "fit": "loose",
+      "sizes": [
+        "M",
+        "L"
+      ],
+      "gender": "unisex",
+      "style": "regular",
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1820,
+      "user_weight": 85,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "L",
+      "secondSize": "M",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-24T03:59:01.027Z",
+    "url": "https://united-arrows-global.com/en-ph/products/31141451740",
+    "store": "united-arrows-global.com",
+    "extProductId": "31141451740",
+    "payload": {
+      "brand": "green label relaxing",
+      "fit": "wide",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "gender": "unisex",
+      "style": "trousers",
+      "product_type": "pants",
+      "user_gender": "male",
+      "user_height": 1820,
+      "user_weight": 85,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "XL",
+      "secondSize": "L",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-24T03:59:17.431Z",
+    "url": "https://united-arrows-global.com/en-ph/products/62286000007",
+    "store": "united-arrows-global.com",
+    "extProductId": "62286000007",
+    "payload": {
+      "brand": "a day in the life",
+      "fit": "regular",
+      "sizes": [
+        "M",
+        "L"
+      ],
+      "gender": "unisex",
+      "style": "cardigan",
+      "product_type": "sweater",
+      "user_gender": "male",
+      "user_height": 1820,
+      "user_weight": 85,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "L",
+      "secondSize": "M",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-24T03:59:59.505Z",
+    "url": "https://united-arrows-global.com/en-ph/products/32271990570",
+    "store": "united-arrows-global.com",
+    "extProductId": "32271990570",
+    "payload": {
+      "brand": "green label relaxing",
+      "fit": "loose",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "gender": "unisex",
+      "style": "regular",
+      "product_type": "t_shirt",
+      "user_gender": "male",
+      "user_height": 1820,
+      "user_weight": 85,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "XL",
+      "secondSize": "L",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-24T04:13:30.304Z",
+    "url": "https://united-arrows-global.com/en-ph/products/11251109060",
+    "store": "united-arrows-global.com",
+    "extProductId": "11251109060",
+    "payload": {
+      "brand": "sovereign",
+      "fit": "regular",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "gender": "unisex",
+      "style": "formal",
+      "product_type": "jacket",
+      "user_gender": "male",
+      "user_height": 1820,
+      "user_weight": 85,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "XL",
+      "secondSize": "L",
+      "scenario": "general_medians",
+      "willFit": true
+    }
+  },
+  {
+    "timestamp": "2025-09-24T15:00:09.906Z",
+    "url": "https://www.felissimo.co.jp/sunnyclouds/157887.html",
+    "store": "www.felissimo.co.jp",
+    "extProductId": "157887",
+    "payload": {
+      "brand": "sunny clouds",
+      "fit": "tight",
+      "sizes": [
+        "MP",
+        "M",
+        "L",
+        "LL",
+        "3L",
+        "MT",
+        "LT"
+      ],
+      "gender": "female",
+      "style": "regular",
+      "product_type": "t_shirt",
+      "user_gender": "female",
+      "user_height": 1650,
+      "user_weight": 55,
+      "user_age": 35
+    },
+    "response": {
+      "sizeName": "3L",
+      "secondSize": "LL",
+      "scenario": "brand_medians",
+      "willFit": true
+    }
   }
 ]
