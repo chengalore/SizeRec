@@ -5,7 +5,8 @@ import storeLinks from "./storeLinks.js";
 (async () => {
   const browser = await puppeteer.launch({
     headless: false, //set to false if to open browser
-    executablePath: "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+    executablePath:
+      "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
     userDataDir: "/Users/rachel/Documents/sizeRec/PuppeteerProfile",
     defaultViewport: null,
   });
@@ -13,7 +14,9 @@ import storeLinks from "./storeLinks.js";
   // Load existing data if file exists
   let existingResults = [];
   if (fs.existsSync("itemResponses.json")) {
-    existingResults = JSON.parse(fs.readFileSync("itemResponses.json", "utf-8"));
+    existingResults = JSON.parse(
+      fs.readFileSync("itemResponses.json", "utf-8")
+    );
   }
 
   const newResults = [];
@@ -26,11 +29,10 @@ import storeLinks from "./storeLinks.js";
 
     page.on("response", async (response) => {
       if (
-  response.url().includes("size-recommendation.virtusize") &&
-  response.url().includes("/item") &&
-  response.request().method() === "POST"
-)
- {
+        response.url().includes("size-recommendation.virtusize") &&
+        response.url().includes("/item") &&
+        response.request().method() === "POST"
+      ) {
         try {
           const reqData = JSON.parse(response.request().postData());
           const payload = reqData.items?.[0]?.additional_info || {};
@@ -46,7 +48,7 @@ import storeLinks from "./storeLinks.js";
           const resFirst = Array.isArray(resData) ? resData[0] : resData;
 
           newResults.push({
-            timestamp: new Date().toISOString(), // ⏰ Add timestamp
+            timestamp: new Date().toISOString(),
             url: page.url(),
             store: new URL(page.url()).hostname,
             extProductId,
@@ -54,6 +56,8 @@ import storeLinks from "./storeLinks.js";
               brand: payload.brand || "",
               fit: payload.fit || "",
               sizes: sizeKeys,
+              gender: payload.gender || "",
+              style: payload.style || "",
               product_type: productType,
               user_gender: userGender,
               user_height: userHeight,
@@ -78,7 +82,9 @@ import storeLinks from "./storeLinks.js";
     try {
       await page.goto(link, { waitUntil: "networkidle2", timeout: 100000 });
 
-      const widgetButton = await page.$("[data-attribute-id='vs-widget-button']");
+      const widgetButton = await page.$(
+        "[data-attribute-id='vs-widget-button']"
+      );
       if (widgetButton) {
         await widgetButton.click();
         console.log("🖱️ Clicked Virtusize widget");
@@ -96,7 +102,9 @@ import storeLinks from "./storeLinks.js";
   const allResults = [...existingResults, ...newResults];
   fs.writeFileSync("itemResponses.json", JSON.stringify(allResults, null, 2));
 
-  console.log("\n✅ Appended new results with timestamp to itemResponses.json");
+  console.log(
+    "\nYEY! Appended new results with timestamp to itemResponses.json"
+  );
 
   await browser.close();
 })();

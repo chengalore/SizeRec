@@ -5,9 +5,24 @@ const results = JSON.parse(fs.readFileSync("itemResponses.json", "utf-8"));
 
 // Define table headers
 const headers = [
-  "Timestamp","extProductId","Brand","Fit","Sizes","Product Type",
-  "User Gender","Height","Weight","Age","Size Name","Second Size",
-  "Scenario","Will Fit","URL","Store"
+  "Timestamp",
+  "extProductId",
+  "Brand",
+  "Fit",
+  "Gender",
+  "Style",
+  "Sizes",
+  "Product Type",
+  "User Gender",
+  "Height",
+  "Weight",
+  "Age",
+  "Size Name",
+  "Second Size",
+  "Scenario",
+  "Will Fit",
+  "URL",
+  "Store",
 ];
 
 // Build HTML
@@ -102,13 +117,16 @@ let html = `
 
   <h2>Filters</h2>
   <div class="filters">
-    ${headers.map((h, i) => 
-      `<input type="text" data-col="${i}" placeholder="🔍 ${h}..." onkeyup="filterTable()">`
-    ).join("")}
+    ${headers
+      .map(
+        (h, i) =>
+          `<input type="text" data-col="${i}" placeholder="🔍 ${h}..." onkeyup="filterTable()">`
+      )
+      .join("")}
   </div>
 
   <div class="actions">
-    <button onclick="exportTableToCSV()">⬇️ Export Filtered CSV</button>
+    <button onclick="exportTableToCSV()">⬇ Export Filtered CSV</button>
     <button class="secondary" onclick="clearFilters()">✖ Clear Filters</button>
   </div>
 
@@ -116,19 +134,21 @@ let html = `
     <table id="responsesTable">
       <thead>
         <tr>
-          ${headers.map(h => `<th>${h}</th>`).join("")}
+          ${headers.map((h) => `<th>${h}</th>`).join("")}
         </tr>
       </thead>
       <tbody>
 `;
 
-results.forEach(r => {
+results.forEach((r) => {
   html += `
         <tr>
           <td>${r.timestamp || ""}</td>
           <td>${r.extProductId || ""}</td>
           <td>${r.payload?.brand || ""}</td>
           <td>${r.payload?.fit || ""}</td>
+          <td>${r.payload?.gender || ""}</td>   
+          <td>${r.payload?.style || ""}</td>   
           <td>${(r.payload?.sizes || []).join(", ")}</td>
           <td>${r.payload?.product_type || ""}</td>
           <td>${r.payload?.user_gender || ""}</td>
@@ -152,8 +172,8 @@ html += `
 
   <h2>Paste Product URLs</h2>
   <textarea id="urlInput" rows="3" style="width:100%; max-width:600px;" placeholder="Paste product URLs here..."></textarea><br>
-  <button onclick="saveUrls()">💾 Save URLs</button>
-  <button onclick="exportAsStoreLinksJS()">⬇️ Export storeLinks.js</button>
+  <button onclick="saveUrls()"> Save URLs</button>
+  <button onclick="exportAsStoreLinksJS()">⬇ Export storeLinks.js</button>
 
   <script>
     function filterTable() {
@@ -219,7 +239,7 @@ html += `
         if (url && !saved.includes(url)) saved.push(url.trim());
       });
       localStorage.setItem("savedLinks", JSON.stringify(saved));
-      alert("✅ URLs saved to localStorage!");
+      alert(" URLs saved to localStorage!");
       document.getElementById("urlInput").value = "";
     }
 
@@ -247,4 +267,4 @@ export default [
 
 // Save as HTML
 fs.writeFileSync("itemResponses.html", html);
-console.log("✅ Exported BEAUTIFUL HTML with all column filters, reset, CSV, and storeLinks.js export to itemResponses.html");
+console.log("Exported");
